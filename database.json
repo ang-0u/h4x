@@ -445,6 +445,28 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212621851554@s.whatsapp.net": {
+      "messaggi": 6,
+      "exp": 40,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Angelo",
+      "muto": false
+    },
+    "212633305659@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -1772,13 +1794,79 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212621851554@s.whatsapp.net": {
+      "name": "Angelo",
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": true,
+      "antiporno": true,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": true,
+      "antiLink": true,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": true,
+      "antitiktok": true,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": true,
+      "antiArab": true,
+      "modoadmin": false,
+      "antiPorno": true,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 7,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
-  "stats": {},
+  "stats": {
+    "_config-sf-fils.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1718580360615,
+      "lastSuccess": 1718580360615
+    },
+    "owner-exec.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1718580368507,
+      "lastSuccess": 1718580368507
+    },
+    "_menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1718580381989,
+      "lastSuccess": 1718580381989
+    }
+  },
   "msgs": {},
   "sticker": {},
   "settings": {
     "212687761878@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": true,
+      "antiCall": true,
+      "antiPrivate": true,
+      "jadibot": true
+    },
+    "212633305659@s.whatsapp.net": {
       "self": false,
       "autoread": false,
       "restrict": true,
