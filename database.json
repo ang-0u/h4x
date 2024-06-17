@@ -467,10 +467,10 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 49,
-      "exp": 666,
+      "messaggi": 59,
+      "exp": 841,
       "limit": 20,
-      "money": 0,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -483,8 +483,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 165,
-      "exp": 926,
+      "messaggi": 179,
+      "exp": 1005,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -499,8 +499,8 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 176,
-      "exp": 2500,
+      "messaggi": 188,
+      "exp": 2666,
       "limit": 15,
       "money": null,
       "blasphemy": 0,
@@ -1970,7 +1970,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 298,
+      "messaggi": 308,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2087,7 +2087,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 35,
+      "messaggi": 61,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2098,10 +2098,10 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 43,
-      "success": 40,
-      "last": 1718637045255,
-      "lastSuccess": 1718637045255
+      "total": 47,
+      "success": 42,
+      "last": 1718638563200,
+      "lastSuccess": 1718638563200
     },
     "owner-exec.js": {
       "total": 4,
@@ -2110,10 +2110,10 @@
       "lastSuccess": 1718631267131
     },
     "_menu.js": {
-      "total": 23,
-      "success": 23,
-      "last": 1718631239572,
-      "lastSuccess": 1718631239572
+      "total": 26,
+      "success": 26,
+      "last": 1718638679990,
+      "lastSuccess": 1718638679990
     },
     "_config-make-account.js": {
       "total": 5,
@@ -2146,10 +2146,10 @@
       "lastSuccess": 1718631152486
     },
     "accmenu.js": {
-      "total": 11,
-      "success": 11,
-      "last": 1718636774567,
-      "lastSuccess": 1718636774567
+      "total": 13,
+      "success": 13,
+      "last": 1718638686832,
+      "lastSuccess": 1718638686832
     },
     "bc.js": {
       "total": 3,
@@ -2194,16 +2194,16 @@
       "lastSuccess": 1718633977469
     },
     "dl-ytmp3.js": {
-      "total": 6,
-      "success": 4,
-      "last": 1718637074420,
-      "lastSuccess": 1718637074420
+      "total": 9,
+      "success": 7,
+      "last": 1718638626202,
+      "lastSuccess": 1718638626202
     },
     "dl-play.js": {
-      "total": 8,
-      "success": 6,
-      "last": 1718636864030,
-      "lastSuccess": 1718636864030
+      "total": 9,
+      "success": 7,
+      "last": 1718638613877,
+      "lastSuccess": 1718638613877
     }
   },
   "msgs": {},
