@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 10,
+      "messaggi": 3,
+      "exp": 19,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -259,7 +259,7 @@
       "muto": false
     },
     "12052565896@s.whatsapp.net": {
-      "messaggi": 2,
+      "messaggi": 4,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -499,8 +499,8 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 244,
-      "exp": 3354,
+      "messaggi": 245,
+      "exp": 3363,
       "limit": 15,
       "money": null,
       "blasphemy": 0,
@@ -561,12 +561,76 @@
       "money": null
     },
     "16696695696@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 0,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "CESCO BOT",
+      "muto": false
+    },
+    "13103555088@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 0,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "UL | BOT",
+      "muto": false
+    },
+    "51902360044@s.whatsapp.net": {
+      "messaggi": 4,
+      "exp": 13,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Paul🍀",
+      "muto": false
+    },
+    "40729756792@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
       "money": null
     },
-    "13103555088@s.whatsapp.net": {
+    "18144269203@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 0,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "ꪶbotꫂ⇝£ma",
+      "muto": false
+    },
+    "12013613613@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -1229,7 +1293,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 9,
+      "messaggi": 22,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2087,7 +2151,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 162,
+      "messaggi": 163,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
