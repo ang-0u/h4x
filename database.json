@@ -463,8 +463,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 113,
-      "exp": 596,
+      "messaggi": 131,
+      "exp": 708,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -479,10 +479,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 134,
-      "exp": 1745,
+      "messaggi": 160,
+      "exp": 2234,
       "limit": 15,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -1925,7 +1925,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 228,
+      "messaggi": 272,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2014,10 +2014,10 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 31,
-      "success": 28,
-      "last": 1718587466090,
-      "lastSuccess": 1718587466090
+      "total": 36,
+      "success": 33,
+      "last": 1718630371287,
+      "lastSuccess": 1718630371287
     },
     "owner-exec.js": {
       "total": 2,
@@ -2026,10 +2026,10 @@
       "lastSuccess": 1718580368507
     },
     "_menu.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1718613074414,
-      "lastSuccess": 1718613074414
+      "total": 21,
+      "success": 21,
+      "last": 1718630621499,
+      "lastSuccess": 1718630621499
     },
     "_config-make-account.js": {
       "total": 5,
@@ -2056,16 +2056,16 @@
       "lastSuccess": 1718582675002
     },
     "allmenu.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1718586400709,
-      "lastSuccess": 1718586400709
+      "total": 6,
+      "success": 6,
+      "last": 1718630444765,
+      "lastSuccess": 1718630444765
     },
     "accmenu.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1718613635440,
-      "lastSuccess": 1718613635440
+      "total": 9,
+      "success": 9,
+      "last": 1718630296048,
+      "lastSuccess": 1718630296048
     },
     "bc.js": {
       "total": 3,
