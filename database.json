@@ -243,16 +243,36 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 10,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "𝔟𝔦𝔰𝔠𝔬𝔱𝔱𝔬",
+      "muto": false
     },
     "12052565896@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 0,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Benito Mussolini",
+      "muto": false
     },
     "393716463626@s.whatsapp.net": {
       "messaggi": 1,
@@ -447,10 +467,10 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 8,
-      "exp": 51,
+      "messaggi": 30,
+      "exp": 344,
       "limit": 20,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -463,8 +483,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 142,
-      "exp": 788,
+      "messaggi": 152,
+      "exp": 845,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -479,10 +499,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 169,
-      "exp": 2437,
+      "messaggi": 172,
+      "exp": 2460,
       "limit": 15,
-      "money": 0,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -527,6 +547,30 @@
       "premiumTime": 0,
       "name": "👨🏼‍💻🤖",
       "muto": false
+    },
+    "120363261861628491@g.us": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "120363148902152328@g.us": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "16696695696@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "13103555088@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -1185,7 +1229,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 4,
+      "messaggi": 9,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1223,13 +1267,14 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 1,
+      "messaggi": 2,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
       "tprem": 0,
       "money": 0,
-      "warn": 0
+      "warn": 0,
+      "name": {}
     },
     "212720106845@s.whatsapp.net": {
       "name": "Óthmàn",
@@ -2010,14 +2055,53 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "120363282786569823@g.us": {
+      "name": "Angelo",
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": true,
+      "antiporno": true,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": true,
+      "antiLink": true,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": true,
+      "antitiktok": true,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": true,
+      "antiArab": true,
+      "modoadmin": false,
+      "antiPorno": true,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 35,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 37,
-      "success": 34,
-      "last": 1718631134879,
-      "lastSuccess": 1718631134879
+      "total": 40,
+      "success": 37,
+      "last": 1718634412812,
+      "lastSuccess": 1718634412812
     },
     "owner-exec.js": {
       "total": 4,
@@ -2096,6 +2180,24 @@
       "success": 3,
       "last": 1718587626022,
       "lastSuccess": 1718587626022
+    },
+    "dl-ig.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1718633585350,
+      "lastSuccess": 1718633585350
+    },
+    "dl-fb.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1718633977469,
+      "lastSuccess": 1718633977469
+    },
+    "dl-ytmp3.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1718634594337,
+      "lastSuccess": 1718634594337
     }
   },
   "msgs": {},
