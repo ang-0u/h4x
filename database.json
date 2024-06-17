@@ -467,24 +467,24 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 59,
-      "exp": 841,
+      "messaggi": 101,
+      "exp": 1375,
       "limit": 20,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
       "joincount": 2,
-      "premium": false,
+      "premium": true,
       "premiumDate": -1,
       "tprem": 0,
-      "premiumTime": 0,
+      "premiumTime": 1718644596367,
       "name": "Angelo",
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 179,
-      "exp": 1005,
+      "messaggi": 239,
+      "exp": 1363,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -499,8 +499,8 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 188,
-      "exp": 2666,
+      "messaggi": 244,
+      "exp": 3354,
       "limit": 15,
       "money": null,
       "blasphemy": 0,
@@ -533,8 +533,8 @@
       "money": null
     },
     "212764787868@s.whatsapp.net": {
-      "messaggi": 13,
-      "exp": 63,
+      "messaggi": 22,
+      "exp": 87,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -1931,7 +1931,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 40,
+      "messaggi": 57,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1970,7 +1970,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 308,
+      "messaggi": 342,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2009,7 +2009,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 24,
+      "messaggi": 40,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2087,7 +2087,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 61,
+      "messaggi": 161,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2098,10 +2098,10 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 47,
-      "success": 42,
-      "last": 1718638563200,
-      "lastSuccess": 1718638563200
+      "total": 61,
+      "success": 50,
+      "last": 1718641553150,
+      "lastSuccess": 1718641553150
     },
     "owner-exec.js": {
       "total": 4,
@@ -2110,10 +2110,10 @@
       "lastSuccess": 1718631267131
     },
     "_menu.js": {
-      "total": 26,
-      "success": 26,
-      "last": 1718638679990,
-      "lastSuccess": 1718638679990
+      "total": 37,
+      "success": 37,
+      "last": 1718641422723,
+      "lastSuccess": 1718641422723
     },
     "_config-make-account.js": {
       "total": 5,
@@ -2146,10 +2146,10 @@
       "lastSuccess": 1718631152486
     },
     "accmenu.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1718638686832,
-      "lastSuccess": 1718638686832
+      "total": 17,
+      "success": 17,
+      "last": 1718641586083,
+      "lastSuccess": 1718641586083
     },
     "bc.js": {
       "total": 3,
@@ -2176,10 +2176,10 @@
       "lastSuccess": 0
     },
     "_config-addprem.js": {
-      "total": 3,
-      "success": 3,
-      "last": 1718587626022,
-      "lastSuccess": 1718587626022
+      "total": 4,
+      "success": 4,
+      "last": 1718640996368,
+      "lastSuccess": 1718640996368
     },
     "dl-ig.js": {
       "total": 4,
@@ -2200,10 +2200,28 @@
       "lastSuccess": 1718638626202
     },
     "dl-play.js": {
-      "total": 9,
+      "total": 11,
+      "success": 9,
+      "last": 1718639902775,
+      "lastSuccess": 1718639902775
+    },
+    "dl-ytmp4.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1718639911276,
+      "lastSuccess": 1718639911276
+    },
+    "menu-other.js": {
+      "total": 7,
       "success": 7,
-      "last": 1718638613877,
-      "lastSuccess": 1718638613877
+      "last": 1718641428150,
+      "lastSuccess": 1718641428150
+    },
+    "_mennnu.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1718641790076,
+      "lastSuccess": 1718641790076
     }
   },
   "msgs": {},
