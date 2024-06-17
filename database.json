@@ -463,8 +463,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 109,
-      "exp": 576,
+      "messaggi": 112,
+      "exp": 586,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -479,10 +479,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 130,
-      "exp": 1677,
+      "messaggi": 132,
+      "exp": 1717,
       "limit": 15,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -513,8 +513,8 @@
       "money": null
     },
     "212764787868@s.whatsapp.net": {
-      "messaggi": 6,
-      "exp": 26,
+      "messaggi": 13,
+      "exp": 63,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -1925,7 +1925,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 223,
+      "messaggi": 228,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1971,6 +1971,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212764787868@s.whatsapp.net": {
+      "name": "👨🏼‍💻🤖",
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": true,
+      "antiporno": true,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": true,
+      "antiLink": true,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": true,
+      "antitiktok": true,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": true,
+      "antiArab": true,
+      "modoadmin": false,
+      "antiPorno": true,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 7,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -1987,10 +2026,10 @@
       "lastSuccess": 1718580368507
     },
     "_menu.js": {
-      "total": 14,
-      "success": 14,
-      "last": 1718587523888,
-      "lastSuccess": 1718587523888
+      "total": 15,
+      "success": 15,
+      "last": 1718613074414,
+      "lastSuccess": 1718613074414
     },
     "_config-make-account.js": {
       "total": 5,
@@ -2035,10 +2074,10 @@
       "lastSuccess": 0
     },
     "dl-apk.js": {
-      "total": 3,
-      "success": 1,
-      "last": 1718586567939,
-      "lastSuccess": 1718586567939
+      "total": 4,
+      "success": 2,
+      "last": 1718613112566,
+      "lastSuccess": 1718613112566
     },
     "_config-join.js": {
       "total": 4,
