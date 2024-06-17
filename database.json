@@ -463,8 +463,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 131,
-      "exp": 708,
+      "messaggi": 142,
+      "exp": 788,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -479,8 +479,8 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 160,
-      "exp": 2234,
+      "messaggi": 169,
+      "exp": 2437,
       "limit": 15,
       "money": 0,
       "blasphemy": 0,
@@ -1925,7 +1925,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 272,
+      "messaggi": 292,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2014,22 +2014,22 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 36,
-      "success": 33,
-      "last": 1718630371287,
-      "lastSuccess": 1718630371287
+      "total": 37,
+      "success": 34,
+      "last": 1718631134879,
+      "lastSuccess": 1718631134879
     },
     "owner-exec.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1718580368507,
-      "lastSuccess": 1718580368507
+      "total": 4,
+      "success": 4,
+      "last": 1718631267131,
+      "lastSuccess": 1718631267131
     },
     "_menu.js": {
-      "total": 21,
-      "success": 21,
-      "last": 1718630621499,
-      "lastSuccess": 1718630621499
+      "total": 23,
+      "success": 23,
+      "last": 1718631239572,
+      "lastSuccess": 1718631239572
     },
     "_config-make-account.js": {
       "total": 5,
@@ -2056,16 +2056,16 @@
       "lastSuccess": 1718582675002
     },
     "allmenu.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1718630444765,
-      "lastSuccess": 1718630444765
+      "total": 7,
+      "success": 7,
+      "last": 1718631152486,
+      "lastSuccess": 1718631152486
     },
     "accmenu.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1718630296048,
-      "lastSuccess": 1718630296048
+      "total": 10,
+      "success": 10,
+      "last": 1718631246676,
+      "lastSuccess": 1718631246676
     },
     "bc.js": {
       "total": 3,

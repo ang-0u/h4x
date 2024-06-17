@@ -1,36 +1,93 @@
-import fs from 'fs';
+import jimp from 'jimp';
+import pkg from '@whiskeysockets/baileys';
+const { generateWAMessageFromContent, proto, prepareWAMessageMedia } = pkg;
 
-const handler = async (m, {conn, usedPrefix}) => {
-  if (usedPrefix == 'a' || usedPrefix == 'A') return;
-  try {
-    const picture = './src/sinfoto.jpg';
-    const img = fs.readFileSync(picture);
-    
-    const taguser = '@' + m.sender.split('@')[0];
+let handler = async (m, { conn, usedPrefix, __dirname, text, isPrems }) => {
+    if (usedPrefix == 'a' || usedPrefix == 'A') return;
+    try {
+        let senderTag = m.pushName || conn.getName(m.sender);
+        let imageBuffer = await genProfile(); // Generate image without passing conn or m
+        m.react('🔥');
 
-    const str = `- *hello, ${taguser}*
+        const buttonParamsJson = JSON.stringify({
+            title: "Show options",
+            description: "Get information through official means about zall",
+            sections: [
+                {
+                    title: "Fundoo more ", highlight_label: "Popular",
+                    rows: [
+                        { header: "Account Commands", title: "", description: "all account commands", id: usedPrefix + "accmenu" }
+                    ]
+                },
+                {
+                    title: "Fundoo downloads", highlight_label: "Popular",
+                    rows: [
+                        { header: "Download Commands", title: "", description: "All download commands", id: usedPrefix + "downmenu" }
+                    ]
+                },
+                {
+                    title: "Fundoo Ai ", highlight_label: "Popular",
+                    rows: [
+                        { header: "Ai Commands", title: "", description: "all ai commands", id: usedPrefix + "aimenu" }                        
+                    ]
+                },
+                {
+                    title: "Fundoo Other ", highlight_label: "Popular",
+                    rows: [
+                        { header: "Other Commands", title: "", description: "all Other commands", id: usedPrefix + "menuother" },
+                        { header: "info", title: "", description: "Info user", id: usedPrefix + "info" }
+                    ]
+                },
+                {
+                    title: "Ⓜ️ Menu", highlight_label: "Popular",
+                    rows: [
+                        { header: "⭐ Full Menu", title: "", description: "Visit all the commands", id: usedPrefix + "allmenu" }
+                    ]
+                }
+            ]
+        });
 
-    _*< help />*_
-    
-    ▢ _/ig_
-    ▢ _/fb_
-    ▢ _/apk_
-    ▢ _/chatgpt_
-    ▢ _/bard_
-    ▢ _/ai_`.trim();
-    
-    const fkontak2 = {'key': {'participants': '0@s.whatsapp.net', 'remoteJid': 'status@broadcast', 'fromMe': false, 'id': 'Halo'}, 'message': {'contactMessage': {'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}, 'participant': '0@s.whatsapp.net'};
-    
-    const mentions = [...str.matchAll(/@([0-9]{5,16}|0)/g)].map((v) => v[1] + '@s.whatsapp.net');
-    const messageOptions = { image: img, caption: str.trim(), mentions };
+        const interactiveMessage = {
+            body: { text: `Hello 👋, ${senderTag}` },
+            footer: { text: "@_mouad_ad_" },
+            header: {
+                hasMediaAttachment: true,
+                ...await prepareWAMessageMedia({
+                    image: imageBuffer // Use the generated image buffer
+                }, {
+                    upload: conn.waUploadToServer
+                })
+            },
+            nativeFlowMessage: {
+                buttons: [{
+                    name: "single_select",
+                    buttonParamsJson
+                }]
+            }
+        };
 
-    conn.sendMessage(m.chat, messageOptions, { quoted: fkontak2 });
-  } catch (error) {
-    console.error(error);
-    conn.reply(m.chat, '*[ ℹ️ ] Este menú tiene un error interno, por lo cual no fue posible enviarlo.*', m);
-  }
+        const message = {
+            messageContextInfo: { deviceListMetadata: {}, deviceListMetadataVersion: 2 },
+            interactiveMessage
+        };
+
+        await conn.relayMessage(m.chat, { viewOnceMessage: { message } }, {});
+    } catch (e) {
+        console.log(e);
+    }
 };
 
-handler.command = /^(help|menu)$/i;
-
+handler.command = /^(menu)$/i;
 export default handler;
+
+async function genProfile() {
+    try {
+        // Generate an image using JIMP
+        const image = await jimp.read('https://telegra.ph/file/25138d52d9359a658c727.jpg'); // Use your image URL
+        image.resize(256, 256); // Resize the image if necessary
+        return await image.getBufferAsync(jimp.MIME_JPEG); // Return the image buffer
+    } catch (e) {
+        console.log(e);
+        return null;
+    }
+}
