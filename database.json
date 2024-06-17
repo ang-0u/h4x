@@ -463,8 +463,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 6,
-      "exp": 28,
+      "messaggi": 109,
+      "exp": 576,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -479,10 +479,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 5,
-      "exp": 59,
-      "limit": 20,
-      "money": 0,
+      "messaggi": 130,
+      "exp": 1677,
+      "limit": 15,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -491,7 +491,41 @@
       "premiumDate": -1,
       "tprem": 0,
       "premiumTime": 0,
-      "name": "Mouad",
+      "name": "mouad",
+      "muto": false,
+      "age": 16,
+      "regTime": 1718583036088,
+      "registered": true,
+      "registroC": false,
+      "registroR": false,
+      "genero": 0,
+      "identidad": 0,
+      "level": 0,
+      "pasatiempo": 0,
+      "premLimit": 1,
+      "tiempo": 0,
+      "descripcion": 0
+    },
+    "120363265300043247@g.us": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212764787868@s.whatsapp.net": {
+      "messaggi": 6,
+      "exp": 26,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "👨🏼‍💻🤖",
       "muto": false
     }
   },
@@ -1891,7 +1925,46 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 9,
+      "messaggi": 223,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
+    },
+    "120363265300043247@g.us": {
+      "name": "Mouad",
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": true,
+      "antiporno": true,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": true,
+      "antiLink": true,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": true,
+      "antitiktok": true,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": true,
+      "antiArab": true,
+      "modoadmin": false,
+      "antiPorno": true,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 21,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1902,10 +1975,10 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 5,
-      "success": 4,
-      "last": 1718580916730,
-      "lastSuccess": 1718580916730
+      "total": 31,
+      "success": 28,
+      "last": 1718587466090,
+      "lastSuccess": 1718587466090
     },
     "owner-exec.js": {
       "total": 2,
@@ -1914,10 +1987,76 @@
       "lastSuccess": 1718580368507
     },
     "_menu.js": {
-      "total": 2,
+      "total": 14,
+      "success": 14,
+      "last": 1718587523888,
+      "lastSuccess": 1718587523888
+    },
+    "_config-make-account.js": {
+      "total": 5,
       "success": 2,
-      "last": 1718580381989,
-      "lastSuccess": 1718580381989
+      "last": 1718583036556,
+      "lastSuccess": 1718583036556
+    },
+    "_config-delacc.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1718581749761,
+      "lastSuccess": 0
+    },
+    "_config-serie.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1718585832374,
+      "lastSuccess": 1718585832374
+    },
+    "bot-ping.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1718582675002,
+      "lastSuccess": 1718582675002
+    },
+    "allmenu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1718586400709,
+      "lastSuccess": 1718586400709
+    },
+    "accmenu.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1718586118809,
+      "lastSuccess": 1718586118809
+    },
+    "bc.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1718585140361,
+      "lastSuccess": 0
+    },
+    "dl-apk.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1718586567939,
+      "lastSuccess": 1718586567939
+    },
+    "_config-join.js": {
+      "total": 4,
+      "success": 0,
+      "last": 1718587768382,
+      "lastSuccess": 0
+    },
+    "dowlandor-mefiafire.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1718587479211,
+      "lastSuccess": 0
+    },
+    "_config-addprem.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1718587626022,
+      "lastSuccess": 1718587626022
     }
   },
   "msgs": {},
