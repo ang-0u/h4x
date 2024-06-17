@@ -1,20 +1,25 @@
-//by ang_0y vs 12
-import tio from 'btch-downloader'
-import fetch from 'node-fetch'; 
+import fetch from 'node-fetch';
 
-let handler = async (m, { conn, args, usedPrefix, command }) => {
-    if (!args[0]) throw `Use example ${usedPrefix}${command} https://www.instagram.com/p/ByxKbUSnubS/?utm_source=ig_web_copy_link`
-    let json = await tio.igdl((args[0]))
-    let fetchStartTime = new Date();
-    let fetchResponse = await fetch(args[0]);
-    let fetchEndTime = new Date();
-    let fetchTime = fetchEndTime - fetchStartTime;
-    for (let i of json) {
-        conn.sendFile(m.chat, i.url, 'instagram.mp4', `◦  *Fetching [Ping]* : ${fetchTime} ms`, m)
-        await new Promise(resolve => setTimeout(resolve, 1500)); // Delay sending each file by 1500 milliseconds
-    }
+let handler = async (m, { conn, args, text, usedPrefix, command }) => {
+  if (!args[0]) throw 'Ex: ' + usedPrefix + command + ' url';
+  let res = await api(args[0]);
+  if (res.status) {
+    let result = res.result[0];
+    let thumbnail = result.thumbnail;
+    let url = result.url;
+    await conn.sendFile(m.chat, url, 'instagram.jpg', 'Here is your download', m, false, { thumbnail });
+  } else {
+    throw 'Failed to fetch data from the API';
+  }
+};
+
+handler.command = /^(ig)$/i;
+export default handler;
+
+async function api(url) {
+  let apiUrl = `https://api.fgmods.xyz/api/downloader/igdl?url=${url}&apikey=lPPa6XqV`;
+  let response = await fetch(apiUrl);
+  if (!response.ok) throw 'Error fetching data from API';
+  let data = await response.json();
+  return data;
 }
-handler.help = ['ig'].map(v => v + ' <url>')
-handler.tags = ['downloader']
-handler.command = /^(ig(dl)?)$/i
-export default handler
