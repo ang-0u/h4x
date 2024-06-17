@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 3,
-      "exp": 19,
+      "messaggi": 8,
+      "exp": 48,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -259,7 +259,7 @@
       "muto": false
     },
     "12052565896@s.whatsapp.net": {
-      "messaggi": 4,
+      "messaggi": 10,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -275,10 +275,20 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 5,
+      "exp": 19,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Jessy",
+      "muto": false
     },
     "131624020738216@lid": {
       "messaggi": 1,
@@ -467,8 +477,8 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 103,
-      "exp": 1389,
+      "messaggi": 104,
+      "exp": 1399,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -483,8 +493,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 242,
-      "exp": 1390,
+      "messaggi": 247,
+      "exp": 1425,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -561,7 +571,7 @@
       "money": null
     },
     "16696695696@s.whatsapp.net": {
-      "messaggi": 2,
+      "messaggi": 7,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -577,7 +587,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 2,
+      "messaggi": 6,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -593,8 +603,8 @@
       "muto": false
     },
     "51902360044@s.whatsapp.net": {
-      "messaggi": 4,
-      "exp": 13,
+      "messaggi": 16,
+      "exp": 152,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -609,10 +619,20 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 7,
+      "exp": 0,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "UnityManager",
+      "muto": false
     },
     "18144269203@s.whatsapp.net": {
       "messaggi": 2,
@@ -631,10 +651,20 @@
       "muto": false
     },
     "12013613613@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 7,
+      "exp": 0,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "jamal",
+      "muto": false
     }
   },
   "chats": {
@@ -1293,7 +1323,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 22,
+      "messaggi": 73,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1995,7 +2025,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 57,
+      "messaggi": 58,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2034,7 +2064,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 350,
+      "messaggi": 351,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2151,7 +2181,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 167,
+      "messaggi": 168,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2204,10 +2234,10 @@
       "lastSuccess": 1718582675002
     },
     "allmenu.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1718631152486,
-      "lastSuccess": 1718631152486
+      "total": 8,
+      "success": 8,
+      "last": 1718664080248,
+      "lastSuccess": 1718664080248
     },
     "accmenu.js": {
       "total": 18,
@@ -2282,10 +2312,10 @@
       "lastSuccess": 1718662240040
     },
     "_mennnu.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1718662231792,
-      "lastSuccess": 1718662231792
+      "total": 6,
+      "success": 6,
+      "last": 1718664063276,
+      "lastSuccess": 1718664063276
     }
   },
   "msgs": {},
