@@ -467,10 +467,10 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 101,
-      "exp": 1375,
+      "messaggi": 102,
+      "exp": 1385,
       "limit": 20,
-      "money": 0,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -2087,7 +2087,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 161,
+      "messaggi": 162,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
