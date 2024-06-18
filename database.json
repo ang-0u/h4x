@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 13,
-      "exp": 79,
+      "messaggi": 15,
+      "exp": 82,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -259,7 +259,7 @@
       "muto": false
     },
     "12052565896@s.whatsapp.net": {
-      "messaggi": 14,
+      "messaggi": 18,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -493,8 +493,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 247,
-      "exp": 1425,
+      "messaggi": 248,
+      "exp": 1431,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -509,10 +509,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 253,
-      "exp": 3460,
+      "messaggi": 254,
+      "exp": 3479,
       "limit": 15,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -591,7 +591,7 @@
       "muto": false
     },
     "16696695696@s.whatsapp.net": {
-      "messaggi": 12,
+      "messaggi": 14,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -607,7 +607,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 11,
+      "messaggi": 14,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -639,7 +639,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 8,
+      "messaggi": 12,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -731,6 +731,38 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "50248975917@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 8,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Sin tetas, no hay paraíso....",
+      "muto": false
+    },
+    "6285768285596@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 0,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Bariek Lana Digitalindo",
+      "muto": false
     }
   },
   "chats": {
@@ -1389,7 +1421,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 104,
+      "messaggi": 123,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2247,7 +2279,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 168,
+      "messaggi": 170,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2378,10 +2410,10 @@
       "lastSuccess": 1718662240040
     },
     "_mennnu.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1718664063276,
-      "lastSuccess": 1718664063276
+      "total": 7,
+      "success": 7,
+      "last": 1718747811922,
+      "lastSuccess": 1718747811922
     }
   },
   "msgs": {},
