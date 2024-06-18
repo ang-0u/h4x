@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 8,
-      "exp": 48,
+      "messaggi": 12,
+      "exp": 69,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -259,7 +259,7 @@
       "muto": false
     },
     "12052565896@s.whatsapp.net": {
-      "messaggi": 10,
+      "messaggi": 13,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 6,
-      "exp": 26,
+      "messaggi": 8,
+      "exp": 31,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -559,19 +559,39 @@
       "muto": false
     },
     "120363261861628491@g.us": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 7,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": {},
+      "muto": false
     },
     "120363148902152328@g.us": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 1,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": {},
+      "muto": false
     },
     "16696695696@s.whatsapp.net": {
-      "messaggi": 7,
+      "messaggi": 11,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -587,7 +607,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 6,
+      "messaggi": 10,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -619,7 +639,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 7,
+      "messaggi": 8,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -665,6 +685,36 @@
       "premiumTime": 0,
       "name": "jamal",
       "muto": false
+    },
+    "5493434542429@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "194038535815187@lid": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "595972712861@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "393898518396@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "42237194973432@lid": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -1323,7 +1373,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 74,
+      "messaggi": 96,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -1361,7 +1411,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 2,
+      "messaggi": 5,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2264,10 +2314,10 @@
       "lastSuccess": 0
     },
     "dowlandor-mefiafire.js": {
-      "total": 2,
-      "success": 0,
-      "last": 1718587479211,
-      "lastSuccess": 0
+      "total": 3,
+      "success": 1,
+      "last": 1718670850589,
+      "lastSuccess": 1718670850589
     },
     "_config-addprem.js": {
       "total": 4,
