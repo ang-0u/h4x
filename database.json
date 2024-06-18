@@ -671,7 +671,7 @@
       "muto": false
     },
     "12013613613@s.whatsapp.net": {
-      "messaggi": 7,
+      "messaggi": 8,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -699,10 +699,20 @@
       "money": null
     },
     "595972712861@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 7,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Melanie Raid Mata Todo",
+      "muto": false
     },
     "393898518396@s.whatsapp.net": {
       "messaggi": 1,
@@ -1379,7 +1389,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 102,
+      "messaggi": 104,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
