@@ -477,8 +477,8 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 104,
-      "exp": 1399,
+      "messaggi": 120,
+      "exp": 1540,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -493,8 +493,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 248,
-      "exp": 1431,
+      "messaggi": 260,
+      "exp": 1506,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -509,8 +509,8 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 254,
-      "exp": 3479,
+      "messaggi": 278,
+      "exp": 3823,
       "limit": 15,
       "money": 0,
       "blasphemy": 0,
@@ -2162,7 +2162,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 351,
+      "messaggi": 361,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2279,7 +2279,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 170,
+      "messaggi": 212,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2290,10 +2290,10 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 61,
-      "success": 50,
-      "last": 1718641553150,
-      "lastSuccess": 1718641553150
+      "total": 62,
+      "success": 51,
+      "last": 1718752858586,
+      "lastSuccess": 1718752858586
     },
     "owner-exec.js": {
       "total": 4,
@@ -2332,10 +2332,10 @@
       "lastSuccess": 1718582675002
     },
     "allmenu.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1718664080248,
-      "lastSuccess": 1718664080248
+      "total": 9,
+      "success": 9,
+      "last": 1718752866280,
+      "lastSuccess": 1718752866280
     },
     "accmenu.js": {
       "total": 18,
@@ -2374,28 +2374,28 @@
       "lastSuccess": 1718640996368
     },
     "dl-ig.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1718633585350,
-      "lastSuccess": 1718633585350
+      "total": 6,
+      "success": 3,
+      "last": 1718752218667,
+      "lastSuccess": 1718752218667
     },
     "dl-fb.js": {
-      "total": 3,
+      "total": 4,
       "success": 1,
-      "last": 1718633977469,
+      "last": 1718751153950,
       "lastSuccess": 1718633977469
     },
     "dl-ytmp3.js": {
-      "total": 9,
-      "success": 7,
-      "last": 1718638626202,
-      "lastSuccess": 1718638626202
+      "total": 10,
+      "success": 8,
+      "last": 1718751114368,
+      "lastSuccess": 1718751114368
     },
     "dl-play.js": {
-      "total": 11,
-      "success": 9,
-      "last": 1718639902775,
-      "lastSuccess": 1718639902775
+      "total": 15,
+      "success": 13,
+      "last": 1718751046709,
+      "lastSuccess": 1718751046709
     },
     "dl-ytmp4.js": {
       "total": 2,
@@ -2410,10 +2410,10 @@
       "lastSuccess": 1718662240040
     },
     "_mennnu.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1718747811922,
-      "lastSuccess": 1718747811922
+      "total": 9,
+      "success": 9,
+      "last": 1718752516368,
+      "lastSuccess": 1718752516368
     }
   },
   "msgs": {},
