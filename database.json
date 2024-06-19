@@ -509,10 +509,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 278,
-      "exp": 3823,
+      "messaggi": 280,
+      "exp": 3828,
       "limit": 15,
-      "money": 0,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -2279,7 +2279,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 213,
+      "messaggi": 215,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
