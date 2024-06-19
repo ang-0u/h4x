@@ -794,8 +794,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 261,
-      "exp": 1500,
+      "messaggi": 269,
+      "exp": 1535,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -1480,6 +1480,18 @@
       "money": null
     },
     "212622697809@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212604283093@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212703269119@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -3078,7 +3090,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 380,
+      "messaggi": 390,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
