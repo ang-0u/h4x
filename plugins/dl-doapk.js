@@ -1,1 +1,77 @@
-function _0x665e(_0x48d549,_0x1d4683){const _0x4bf470=_0x4bf4();return _0x665e=function(_0x665efb,_0x3eea4a){_0x665efb=_0x665efb-0xed;let _0x516884=_0x4bf470[_0x665efb];return _0x516884;},_0x665e(_0x48d549,_0x1d4683);}(function(_0x3437fc,_0x3a0337){const _0x259649=_0x665e,_0x2e6a63=_0x3437fc();while(!![]){try{const _0x891bea=-parseInt(_0x259649(0xf0))/0x1*(-parseInt(_0x259649(0x109))/0x2)+-parseInt(_0x259649(0xfc))/0x3+-parseInt(_0x259649(0x10b))/0x4*(-parseInt(_0x259649(0x10f))/0x5)+parseInt(_0x259649(0x10a))/0x6*(-parseInt(_0x259649(0xee))/0x7)+parseInt(_0x259649(0x105))/0x8+parseInt(_0x259649(0xed))/0x9+-parseInt(_0x259649(0xfe))/0xa*(-parseInt(_0x259649(0x10c))/0xb);if(_0x891bea===_0x3a0337)break;else _0x2e6a63['push'](_0x2e6a63['shift']());}catch(_0x4c1647){_0x2e6a63['push'](_0x2e6a63['shift']());}}}(_0x4bf4,0xf262c));import _0x178f08 from'node-fetch';let handler=async(_0x11201a,{conn:_0x28e219,args:_0x5b070a,text:_0x208a3c,usedPrefix:_0x530bf4,command:_0x408d9e})=>{const _0x365168=_0x665e;if(!_0x208a3c)throw _0x365168(0xf4)+_0x530bf4+_0x408d9e+_0x365168(0xf8);try{await _0x11201a[_0x365168(0x114)](_0x365168(0xf7));let _0x1f7f85=await apk(_0x208a3c);const _0x12eadf=_0x1f7f85[_0x365168(0x102)]+'.'+_0x1f7f85[_0x365168(0xf2)];await _0x28e219[_0x365168(0x111)](_0x11201a[_0x365168(0xf6)],{'document':{'url':_0x1f7f85['dl']},'mimetype':_0x1f7f85[_0x365168(0xff)],'fileName':_0x12eadf},{'quoted':_0x11201a});}catch(_0x4081d6){await _0x11201a[_0x365168(0x114)](_0x365168(0x113));}};handler['command']=/^(doapk)$/i;export default handler;async function apk(_0x185115){const _0x384458=_0x665e;let _0x2728f4=await _0x178f08(_0x384458(0x106)+_0x185115),_0x3de013=await _0x2728f4[_0x384458(0xf1)](),_0x33c337=_0x3de013[_0x384458(0x103)],_0x12221d=_0x3de013[_0x384458(0x112)],_0x47c4d9=_0x3de013[_0x384458(0x104)],_0x92012=_0x3de013[_0x384458(0x10d)];if(!_0x47c4d9)throw'Can\x27t\x20download\x20the\x20apk!';let _0x14bc80=_0x3de013['downloadCount'],_0xcafcd9=_0x3de013[_0x384458(0x10e)],_0x226e35=(await _0x178f08(_0x47c4d9,{'method':'head'}))[_0x384458(0x108)][_0x384458(0xfa)](_0x384458(0xf3));const _0x11a4ee=(await _0x178f08(_0x47c4d9,{'method':_0x384458(0xef)}))[_0x384458(0x108)][_0x384458(0xfa)](_0x384458(0x110));if(_0x11a4ee>0x1dcd6500)throw _0x384458(0xf9);let _0x16cffa=formatBytes(parseInt(_0x11a4ee));return{'name':_0x33c337,'icon':_0x12221d,'dl':_0x47c4d9,'dc':_0x14bc80,'path':_0xcafcd9,'format':_0x92012,'size':_0x16cffa,'mimetype':_0x226e35};}function formatBytes(_0x21e41c,_0x340edb=0x2){const _0x478b1e=_0x665e;if(_0x21e41c===0x0)return _0x478b1e(0x100);const _0x480794=0x400,_0x37e604=_0x340edb<0x0?0x0:_0x340edb,_0x2dff4c=[_0x478b1e(0x101),'KB','MB','GB','TB','PB','EB','ZB','YB'],_0x226203=Math[_0x478b1e(0xf5)](Math[_0x478b1e(0xfd)](_0x21e41c)/Math[_0x478b1e(0xfd)](_0x480794));return parseFloat((_0x21e41c/Math[_0x478b1e(0x107)](_0x480794,_0x226203))[_0x478b1e(0xfb)](_0x37e604))+'\x20'+_0x2dff4c[_0x226203];}function _0x4bf4(){const _0x183137=['4293294BfIMBp','log','2460sssEHf','mimetype','0\x20Bytes','Bytes','path','appName','Downloadlink','3611640jCIooo','https://satisfying-spice-hamster.glitch.me/search?q=','pow','headers','915772GYXODU','423294UiLhPk','76WqvjEc','6380JssstT','appFormat','packageName','162295oNUkOL','Content-Length','sendMessage','image','هناك\x20ضغط\x20على\x20الموقع\x20يرجى\x20اعادة\x20المحاولة\x20لاحقا','reply','7431453xHQNCt','7TPjsxj','head','1GALCyc','json','format','content-type','Ex:\x20','floor','chat','_In\x20progress,\x20please\x20wait..._','\x20minecraft','حجم\x20ملف\x20apk\x20كبير\x20جدًا.\x20الحد\x20الأقصى\x20لحجم\x20التنزيل\x20هو\x20500\x20ميغابايت.','get','toFixed'];_0x4bf4=function(){return _0x183137;};return _0x4bf4();}
+import { search } from "aptoide-scraper";
+import pkg from '@whiskeysockets/baileys';
+const { proto, generateWAMessageFromContent, prepareWAMessageMedia } = pkg;
+
+const searchHandler = async (m, { conn, prefix }) => {
+    const query = m.text.trim().split(/ +/).slice(1).join(" ");
+    if (!query) return await conn.reply(m.chat, `*Please type the name of the app you want to download, e.g.:*\n\n.apk Minecraft`, m);
+
+    try {
+        const searchResults = await search(query);
+        if (searchResults.length === 0) throw "No results found for your search."
+
+        const buttonParamsJson = JSON.stringify({
+            title: "Show Options",
+            sections: [
+                {
+                    title: "Search Results",
+                    rows: searchResults.map((result, index) => ({
+                        header: `${result.name}`,
+                        title: " ",
+                        id: `.apk3 ${result.name}`,
+                        description: ` ${result.id || 'Not available'}`
+                    }))
+                }
+            ]
+        });
+
+        const wm = "Please waitt......";
+        const info = "*Please click the button below to Follow my channel*".trim();
+        const thumbnailUrl = 'https://telegra.ph/file/13240ca790280f569b410.jpg'; // Replace with actual thumbnail URL
+
+        await conn.sendButton(
+            m.chat, 
+            wm, 
+            info, 
+            thumbnailUrl, 
+            [
+                ['Owner 👤', '/owner']
+            ], 
+            null, 
+            [
+                ['Follow instagram', `https://www.instagram.com/_mouad_ad_?igsh=ZGUzMzM3NWJiOQ==`]
+            ], 
+            m, 
+            {
+                contextInfo: {
+                    mentionedJid: [m.sender]
+                }
+            }
+        );
+
+        const interactiveMessage = {
+            body: { text: `Search results for: ${query}` },
+            footer: { text: "@FunDoo" },
+            nativeFlowMessage: {
+                buttons: [{
+                    name: "single_select",
+                    buttonParamsJson
+                }]
+            }
+        };
+
+        const message = {
+            messageContextInfo: { deviceListMetadata: {}, deviceListMetadataVersion: 2 },
+            interactiveMessage
+        };
+
+        await conn.relayMessage(m.chat, { viewOnceMessage: { message } }, {});
+    } catch (e) {
+        console.log(e)
+    }
+};
+
+searchHandler.command = /^(apk)$/i;
+searchHandler.limit = 5
+
+export default searchHandler;
