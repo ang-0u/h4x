@@ -794,8 +794,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 269,
-      "exp": 1535,
+      "messaggi": 278,
+      "exp": 1583,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -3090,7 +3090,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 390,
+      "messaggi": 399,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
