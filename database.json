@@ -493,8 +493,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 343,
-      "exp": 1972,
+      "messaggi": 356,
+      "exp": 2054,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -509,10 +509,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 396,
-      "exp": 25316,
+      "messaggi": 413,
+      "exp": 25668,
       "limit": 1015,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -794,8 +794,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 195,
-      "exp": 1119,
+      "messaggi": 220,
+      "exp": 1273,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -1322,6 +1322,82 @@
       "money": null
     },
     "212635437128@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212670830352@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212693700808@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212720046583@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 3,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "𝑅𝐴𝐶𝐻𝐼𝐷 🫂🤎🩵",
+      "muto": false
+    },
+    "212707200145@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212631798129@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212638838875@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212604089006@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212602120851@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212717376143@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212668582548@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212625725689@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -2725,7 +2801,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 419,
+      "messaggi": 431,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2842,7 +2918,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 384,
+      "messaggi": 402,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2920,7 +2996,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 289,
+      "messaggi": 326,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2970,16 +3046,16 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 80,
-      "success": 67,
-      "last": 1718807639332,
-      "lastSuccess": 1718807639332
+      "total": 82,
+      "success": 69,
+      "last": 1718808184954,
+      "lastSuccess": 1718808184954
     },
     "owner-exec.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1718807388368,
-      "lastSuccess": 1718807388368
+      "total": 9,
+      "success": 9,
+      "last": 1718808108587,
+      "lastSuccess": 1718808108587
     },
     "_menu.js": {
       "total": 37,
@@ -3006,16 +3082,16 @@
       "lastSuccess": 1718585832374
     },
     "bot-ping.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1718803804679,
-      "lastSuccess": 1718803804679
+      "total": 5,
+      "success": 5,
+      "last": 1718808293458,
+      "lastSuccess": 1718808293458
     },
     "allmenu.js": {
-      "total": 10,
-      "success": 10,
-      "last": 1718803215876,
-      "lastSuccess": 1718803215876
+      "total": 11,
+      "success": 11,
+      "last": 1718808809820,
+      "lastSuccess": 1718808809820
     },
     "accmenu.js": {
       "total": 18,
@@ -3090,16 +3166,16 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1718803793262,
-      "lastSuccess": 1718803793262
+      "total": 14,
+      "success": 14,
+      "last": 1718808807024,
+      "lastSuccess": 1718808807024
     },
     "dl-Ai.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1718797876884,
-      "lastSuccess": 1718797876884
+      "total": 4,
+      "success": 4,
+      "last": 1718808413908,
+      "lastSuccess": 1718808413908
     },
     "dl-doapk.js": {
       "total": 4,
@@ -3108,10 +3184,10 @@
       "lastSuccess": 1718805528310
     },
     "main-help1.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1718801485765,
-      "lastSuccess": 1718801485765
+      "total": 3,
+      "success": 3,
+      "last": 1718808816151,
+      "lastSuccess": 1718808816151
     },
     "dl-tiktok.js": {
       "total": 5,
@@ -3156,10 +3232,16 @@
       "lastSuccess": 0
     },
     "translet.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1718808442740,
+      "lastSuccess": 1718808442740
+    },
+    "_config-listprem.js": {
       "total": 2,
       "success": 2,
-      "last": 1718807649607,
-      "lastSuccess": 1718807649607
+      "last": 1718808191983,
+      "lastSuccess": 1718808191983
     }
   },
   "msgs": {},
