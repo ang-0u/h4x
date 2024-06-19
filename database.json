@@ -477,8 +477,8 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 172,
-      "exp": 2039,
+      "messaggi": 181,
+      "exp": 2209,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -493,8 +493,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 368,
-      "exp": 2102,
+      "messaggi": 378,
+      "exp": 2153,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -509,10 +509,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 438,
-      "exp": 25981,
+      "messaggi": 442,
+      "exp": 26017,
       "limit": 1015,
-      "money": 0,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -794,8 +794,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 296,
-      "exp": 1684,
+      "messaggi": 300,
+      "exp": 1712,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -1556,6 +1556,18 @@
       "money": null
     },
     "212774595779@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212609719457@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212613476361@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -2959,7 +2971,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 438,
+      "messaggi": 441,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -3076,7 +3088,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 436,
+      "messaggi": 456,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -3154,7 +3166,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 425,
+      "messaggi": 431,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -3204,16 +3216,16 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 82,
+      "total": 83,
       "success": 69,
-      "last": 1718808184954,
+      "last": 1718835688930,
       "lastSuccess": 1718808184954
     },
     "owner-exec.js": {
-      "total": 15,
-      "success": 15,
-      "last": 1718830844211,
-      "lastSuccess": 1718830844211
+      "total": 19,
+      "success": 19,
+      "last": 1718835775371,
+      "lastSuccess": 1718835775371
     },
     "_menu.js": {
       "total": 37,
@@ -3264,10 +3276,10 @@
       "lastSuccess": 0
     },
     "dl-apk.js": {
-      "total": 19,
-      "success": 15,
-      "last": 1718805629464,
-      "lastSuccess": 1718805629464
+      "total": 20,
+      "success": 16,
+      "last": 1718833978946,
+      "lastSuccess": 1718833978946
     },
     "_config-join.js": {
       "total": 5,
@@ -3324,10 +3336,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 16,
-      "success": 16,
-      "last": 1718829864679,
-      "lastSuccess": 1718829864679
+      "total": 18,
+      "success": 18,
+      "last": 1718835734079,
+      "lastSuccess": 1718835734079
     },
     "dl-Ai.js": {
       "total": 4,
