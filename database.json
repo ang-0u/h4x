@@ -493,8 +493,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 281,
-      "exp": 1638,
+      "messaggi": 298,
+      "exp": 1723,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -509,10 +509,10 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 298,
-      "exp": 4100,
-      "limit": 15,
-      "money": 0,
+      "messaggi": 323,
+      "exp": 24581,
+      "limit": 1015,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -530,11 +530,12 @@
       "registroR": false,
       "genero": 0,
       "identidad": 0,
-      "level": 0,
+      "level": 3,
       "pasatiempo": 0,
       "premLimit": 1,
       "tiempo": 0,
-      "descripcion": 0
+      "descripcion": 0,
+      "lastclaim": 1718803435797
     },
     "120363265300043247@g.us": {
       "messaggi": 1,
@@ -793,8 +794,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 126,
-      "exp": 713,
+      "messaggi": 158,
+      "exp": 912,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -1073,6 +1074,60 @@
       "muto": false
     },
     "212658084806@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212643174278@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212720552169@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212774226945@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212703733004@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212772345587@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212622525012@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212639882603@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212668589478@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212698376976@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -2476,7 +2531,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 367,
+      "messaggi": 407,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2593,7 +2648,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 236,
+      "messaggi": 238,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2671,7 +2726,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 176,
+      "messaggi": 217,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2721,10 +2776,10 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 65,
-      "success": 54,
-      "last": 1718801481143,
-      "lastSuccess": 1718801481143
+      "total": 72,
+      "success": 60,
+      "last": 1718803617302,
+      "lastSuccess": 1718803617302
     },
     "owner-exec.js": {
       "total": 4,
@@ -2763,10 +2818,10 @@
       "lastSuccess": 1718582675002
     },
     "allmenu.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1718752866280,
-      "lastSuccess": 1718752866280
+      "total": 10,
+      "success": 10,
+      "last": 1718803215876,
+      "lastSuccess": 1718803215876
     },
     "accmenu.js": {
       "total": 18,
@@ -2863,6 +2918,36 @@
       "success": 2,
       "last": 1718801485765,
       "lastSuccess": 1718801485765
+    },
+    "dl-tiktok.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1718802010118,
+      "lastSuccess": 0
+    },
+    "dl-mega.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1718802091080,
+      "lastSuccess": 1718802091080
+    },
+    "dl-img.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1718802269318,
+      "lastSuccess": 1718802269318
+    },
+    "levelup.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1718803160378,
+      "lastSuccess": 1718803160378
+    },
+    "_config-gift.js": {
+      "total": 3,
+      "success": 2,
+      "last": 1718803621354,
+      "lastSuccess": 1718803435797
     }
   },
   "msgs": {},
