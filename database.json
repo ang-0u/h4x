@@ -493,8 +493,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 260,
-      "exp": 1506,
+      "messaggi": 262,
+      "exp": 1525,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -509,8 +509,8 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 280,
-      "exp": 3828,
+      "messaggi": 281,
+      "exp": 3849,
       "limit": 15,
       "money": null,
       "blasphemy": 0,
@@ -762,6 +762,22 @@
       "tprem": 0,
       "premiumTime": 0,
       "name": "Bariek Lana Digitalindo",
+      "muto": false
+    },
+    "212651228269@s.whatsapp.net": {
+      "messaggi": 4,
+      "exp": 25,
+      "limit": 20,
+      "money": 0,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "🙂",
       "muto": false
     }
   },
@@ -2162,7 +2178,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 361,
+      "messaggi": 363,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2286,6 +2302,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212651228269@s.whatsapp.net": {
+      "name": "🙂",
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": true,
+      "antiporno": true,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": true,
+      "antiLink": true,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": true,
+      "antitiktok": true,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": true,
+      "antiArab": true,
+      "modoadmin": false,
+      "antiPorno": true,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 5,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -2356,9 +2411,9 @@
       "lastSuccess": 1718613112566
     },
     "_config-join.js": {
-      "total": 4,
+      "total": 5,
       "success": 0,
-      "last": 1718587768382,
+      "last": 1718796940215,
       "lastSuccess": 0
     },
     "dowlandor-mefiafire.js": {
@@ -2410,10 +2465,10 @@
       "lastSuccess": 1718662240040
     },
     "_mennnu.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1718752516368,
-      "lastSuccess": 1718752516368
+      "total": 10,
+      "success": 10,
+      "last": 1718796462591,
+      "lastSuccess": 1718796462591
     }
   },
   "msgs": {},
