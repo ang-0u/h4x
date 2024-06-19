@@ -493,8 +493,8 @@
       "muto": false
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 336,
-      "exp": 1933,
+      "messaggi": 343,
+      "exp": 1972,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -509,8 +509,8 @@
       "muto": false
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 384,
-      "exp": 25170,
+      "messaggi": 396,
+      "exp": 25316,
       "limit": 1015,
       "money": null,
       "blasphemy": 0,
@@ -794,8 +794,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 192,
-      "exp": 1107,
+      "messaggi": 195,
+      "exp": 1119,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -1316,6 +1316,12 @@
       "money": null
     },
     "212649558416@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212635437128@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -2719,7 +2725,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 417,
+      "messaggi": 419,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2836,7 +2842,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 367,
+      "messaggi": 384,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2914,7 +2920,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 285,
+      "messaggi": 289,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -2964,16 +2970,16 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 78,
-      "success": 65,
-      "last": 1718807259768,
-      "lastSuccess": 1718807259768
+      "total": 80,
+      "success": 67,
+      "last": 1718807639332,
+      "lastSuccess": 1718807639332
     },
     "owner-exec.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1718805501987,
-      "lastSuccess": 1718805501987
+      "total": 8,
+      "success": 8,
+      "last": 1718807388368,
+      "lastSuccess": 1718807388368
     },
     "_menu.js": {
       "total": 37,
@@ -3142,6 +3148,18 @@
       "success": 2,
       "last": 1718807268075,
       "lastSuccess": 1718807268075
+    },
+    "cartoon.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1718807560255,
+      "lastSuccess": 0
+    },
+    "translet.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1718807649607,
+      "lastSuccess": 1718807649607
     }
   },
   "msgs": {},
