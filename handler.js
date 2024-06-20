@@ -67,25 +67,25 @@ export async function handler(chatUpdate) {
                 global.db.data.chats[m.chat] = {}
             if (chat) {
                 if (!('isBanned' in chat)) chat.isBanned = false
-                if (!('welcome' in chat)) chat.welcome = true
-                if (!('detect' in chat)) chat.detect = true
+                if (!('welcome' in chat)) chat.welcome = false
+                if (!('detect' in chat)) chat.detect = false
                 if (!('sWelcome' in chat)) chat.sWelcome = ''
                 if (!('sBye' in chat)) chat.sBye = ''
                 if (!('sPromote' in chat)) chat.sPromote = ''
                 if (!('sDemote' in chat)) chat.sDemote = ''
                 if (!('delete' in chat)) chat.delete = false
                 if (!('gpt' in chat)) chat.gpt = false
-                if (!('bestemmiometro' in chat)) chat.bestemmiometro = true
+                if (!('bestemmiometro' in chat)) chat.bestemmiometro = false
                 if (!('antielimina' in chat)) chat.antielimina = true
-                if (!('antiLink' in chat)) chat.antiLink = true
+                if (!('antiLink' in chat)) chat.antiLink = false
                 if (!('antiinsta' in chat)) chat.antiinsta = false
                 if (!('antitiktok' in chat)) chat.antitiktok = false
                 if (!('antiLink2' in chat)) chat.antiLink2 = false
                 if (!('antiviewonce' in chat)) chat.antiviewonce = false
-                if (!('antiTraba' in chat)) chat.antiTraba = true
-                if (!('antiArab' in chat)) chat.antiArab = true
+                if (!('antiTraba' in chat)) chat.antiTraba = false
+                if (!('antiArab' in chat)) chat.antiArab = false
                 if (!('modoadmin' in chat)) chat.modoadmin = false
-                if (!('antiporno' in chat)) chat.antiporno = true
+                if (!('antiporno' in chat)) chat.antiporno = false
                 if (!isNumber(chat.expired)) chat.expired = 0
                 if (!isNumber(chat.messaggi)) chat.messaggi = 0
                 if (!isNumber(chat.blasphemy)) chat.blasphemy = 0
@@ -95,8 +95,8 @@ export async function handler(chatUpdate) {
                 global.db.data.chats[m.chat] = {
                     name: this.getName(m.chat),
                     isBanned: false,
-                    welcome: true,
-                    detect: true,
+                    welcome: false,
+                    detect: false,
                     sWelcome: '',
                     sBye: '',
                     sPromote: '',
@@ -104,23 +104,23 @@ export async function handler(chatUpdate) {
                     delete: false,
                     modohorny: false,
                     gpt: true,
-                    bestemmiometro: true,
-                    antiporno: true,
+                    bestemmiometro: false,
+                    antiporno: false,
                     antielimina: false,
                     audios: false,
-                    antiLinkfast: true,
-                    antiLink: true,
+                    antiLinkfast: false,
+                    antiLink: false,
                     antiLink2: false,
                     antilinkbase: false,
                     antitiktokbase: false,
-                    antiinsta: true,
-                    antitiktok: true,
+                    antiinsta: false,
+                    antitiktok: false,
                     antiviewonce: false,
                     antiToxic: false,
-                    antiTraba: true,
-                    antiArab: true,
+                    antiTraba: false,
+                    antiArab: false,
                     modoadmin: false,
-                    antiPorno: true,
+                    antiPorno: false,
                     muto: false,
                     expired: 0,
                     messaggi: 0,
@@ -136,14 +136,14 @@ export async function handler(chatUpdate) {
             if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
             if (settings) {
                 if (!('self' in settings)) settings.self = false
-                if (!('autoread' in settings)) settings.autoread = false
+                if (!('autoread' in settings)) settings.autoread = true
                 if (!('restrict' in settings)) settings.restrict = true
                 if (!('antiCall' in settings)) settings.antiCall = true
-                if (!('antiPrivate' in settings)) settings.antiprivato = true
+                if (!('antiPrivate' in settings)) settings.antiprivato = false
                 if (!('jadibot' in settings)) settings.jadibot = true   
             } else global.db.data.settings[this.user.jid] = {
                 self: false,
-                autoread: false,
+                autoread: true,
                 restrict: true,
                 antiCall: true,
                 antiPrivate: true,
@@ -638,27 +638,41 @@ export async function deleteUpdate(message) {
     }
 }
 global.dfail = (type, m, conn) => {
-    let msg = {
-        rowner: '𝐐𝐮𝐞𝐬𝐭𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐞̀ 𝐝𝐢𝐬𝐩𝐨𝐧𝐢𝐛𝐢𝐥𝐞 𝐬𝐨𝐥𝐨 𝐩𝐞𝐫 𝐨𝐰𝐧𝐞𝐫 🕵🏻‍♂️',
-        owner: '𝐐𝐮𝐞𝐬𝐭𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐞̀ 𝐝𝐢𝐬𝐩𝐨𝐧𝐢𝐛𝐢𝐥𝐞 𝐬𝐨𝐥𝐨 𝐩𝐞𝐫 𝐨𝐰𝐧𝐞𝐫 🕵🏻‍♂️',
-        mods: '𝐐𝐮𝐞𝐬𝐭𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐥𝐨 𝐩𝐨𝐬𝐬𝐨𝐧𝐨 𝐮𝐭𝐢𝐥𝐢𝐳𝐳𝐚𝐫𝐞 𝐬𝐨𝐥𝐨 𝐚𝐝𝐦𝐢𝐧 𝐞 𝐨𝐰𝐧𝐞𝐫 ⚙️',
-        premium: '𝐐𝐮𝐞𝐬𝐭𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐞̀ 𝐩𝐞𝐫 𝐦𝐞𝐦𝐛𝐫𝐢 𝐩𝐫𝐞𝐦𝐢𝐮𝐦 ✅',
-        group: '𝐐𝐮𝐞𝐬𝐭𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐩𝐮𝐨𝐢 𝐮𝐭𝐢𝐥𝐢𝐳𝐳𝐚𝐫𝐥𝐨 𝐢𝐧 𝐮𝐧 𝐠𝐫𝐮𝐩𝐩𝐨 👥',
-        private: '𝐐𝐮𝐞𝐬𝐭𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐩𝐮𝐨𝐢 𝐮𝐭𝐢𝐥𝐢𝐳𝐳𝐚𝐫𝐥𝐨 𝐢𝐧 𝐜𝐡𝐚𝐭 𝐩𝐫𝐢𝐯𝐚𝐭𝐚 👤',
-        admin: '𝐐𝐮𝐞𝐬𝐭𝐨 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐞̀ 𝐝𝐢𝐬𝐩𝐨𝐧𝐢𝐛𝐢𝐥𝐞 𝐩𝐞𝐫 𝐬𝐨𝐥𝐢 𝐚𝐝𝐦𝐢𝐧 👑',
-        botAdmin: '𝐃𝐞𝐯𝐢 𝐝𝐚𝐫𝐞 𝐚𝐝𝐦𝐢𝐧 𝐚𝐥 𝐛𝐨𝐭 👑',
-        restrict: '🔐 𝐑𝐞𝐬𝐭𝐫𝐢𝐜𝐭 𝐞 𝐝𝐢𝐬𝐚𝐭𝐭𝐢𝐯𝐚𝐭𝐨 🔐'}[type]
-    if (msg) return conn.sendMessage(m.chat, { text: ' ', contextInfo:{
-  "externalAdReply": {"title": `${msg}`, 
- "body": ``, 
-  "previewType": "PHOTO",
-  "thumbnail": fs.readFileSync('./accessdenied2.png'),
-  "mediaType": 1,
-  "renderLargerThumbnail": true}}}, {quoted: m})
+  let msg = {
+      rowner: 'Owner permission is required to use this command 🕵🏻‍♂️',
+      owner: 'Owner permission is required to use this command 🕵🏻‍♂️',
+      mods: 'Moderator permission is required to use this command ⚙️',
+      premium: 'Premium membership required ✅',
+      group: 'This command is only available in a group 👥',
+      private: 'This command is only available in private chat 👤',
+      admin: 'Admin permission is required to use this command 👑',
+      botAdmin: 'Bot admin only command 👑',
+      restrict: '🔐 Restricted and secretive 🔐'
+  }[type];
+
+  if (msg) {
+      return conn.sendMessage(m.chat, {
+          text: ' ',
+          contextInfo: {
+              "externalAdReply": {
+                  "title": `${msg}`,
+                  "body": ``,
+                  "previewType": "PHOTO",
+                  "thumbnail": fs.readFileSync('./Menu2.png'),
+                  "mediaType": 1,
+                  "renderLargerThumbnail": true
+              }
+          }
+      }, { quoted: m });
+  }
 }
-let file = global.__filename(import.meta.url, true)
+
+let file = global.__filename(import.meta.url, true);
+
 watchFile(file, async () => {
-    unwatchFile(file)
-    console.log(chalk.redBright("Update 'handler.js'"))
-    if (global.reloadHandler) console.log(await global.reloadHandler())
-})
+  unwatchFile(file);
+  console.log(chalk.redBright("Update 'handler.js'"));
+  if (global.reloadHandler) {
+      console.log(await global.reloadHandler());
+  }
+});
