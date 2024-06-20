@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 755,
-      "exp": 4208,
+      "messaggi": 767,
+      "exp": 4280,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -797,8 +797,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 310,
-      "exp": 1773,
+      "messaggi": 311,
+      "exp": 1777,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -2762,6 +2762,44 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212624203133@s.whatsapp.net": {
+      "messaggi": 3,
+      "exp": 11,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Nassir Serbout",
+      "muto": false
+    },
+    "212715857108@s.whatsapp.net": {
+      "messaggi": 9,
+      "exp": 140,
+      "limit": 4,
+      "money": 0,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "~ayoub otaku ch.~",
+      "muto": false
+    },
+    "212633360190@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -4356,7 +4394,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 462,
+      "messaggi": 464,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -8107,6 +8145,84 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212624203133@s.whatsapp.net": {
+      "name": "Nassir Serbout",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 6,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
+    },
+    "212715857108@s.whatsapp.net": {
+      "name": "~ayoub otaku ch.~",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 18,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -8201,10 +8317,10 @@
       "lastSuccess": 1718752218667
     },
     "dl-fb.js": {
-      "total": 8,
-      "success": 2,
-      "last": 1718863951975,
-      "lastSuccess": 1718842896144
+      "total": 9,
+      "success": 3,
+      "last": 1718868863773,
+      "lastSuccess": 1718868863773
     },
     "dl-ytmp3.js": {
       "total": 25,
@@ -8213,16 +8329,16 @@
       "lastSuccess": 1718863836771
     },
     "dl-play.js": {
-      "total": 33,
-      "success": 31,
-      "last": 1718866821047,
-      "lastSuccess": 1718866821047
+      "total": 34,
+      "success": 32,
+      "last": 1718868636383,
+      "lastSuccess": 1718868636383
     },
     "dl-ytmp4.js": {
-      "total": 10,
-      "success": 7,
-      "last": 1718855544637,
-      "lastSuccess": 1718855544637
+      "total": 11,
+      "success": 8,
+      "last": 1718868789843,
+      "lastSuccess": 1718868789843
     },
     "menu-other.js": {
       "total": 9,
@@ -8231,16 +8347,16 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 73,
-      "success": 73,
-      "last": 1718868007685,
-      "lastSuccess": 1718868007685
+      "total": 75,
+      "success": 75,
+      "last": 1718868345324,
+      "lastSuccess": 1718868345324
     },
     "dl-Ai.js": {
-      "total": 13,
-      "success": 13,
-      "last": 1718866795802,
-      "lastSuccess": 1718866795802
+      "total": 16,
+      "success": 16,
+      "last": 1718868504706,
+      "lastSuccess": 1718868504706
     },
     "dl-doapk.js": {
       "total": 4,
@@ -8327,10 +8443,10 @@
       "lastSuccess": 1718839011794
     },
     "test.js": {
-      "total": 84,
-      "success": 78,
-      "last": 1718867360901,
-      "lastSuccess": 1718867360901
+      "total": 85,
+      "success": 79,
+      "last": 1718868224268,
+      "lastSuccess": 1718868224268
     },
     "dl-obb.js": {
       "total": 2,
