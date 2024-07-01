@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1356,
-      "exp": 18054,
+      "messaggi": 1363,
+      "exp": 18135,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -4676,6 +4676,22 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212780495074@s.whatsapp.net": {
+      "messaggi": 4,
+      "exp": 8,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "La",
+      "muto": false
     }
   },
   "chats": {
@@ -14577,7 +14593,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 3,
+      "messaggi": 14,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14921,16 +14937,16 @@
       "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 209,
-      "success": 201,
-      "last": 1719843233895,
-      "lastSuccess": 1719843233895
+      "total": 210,
+      "success": 202,
+      "last": 1719846518839,
+      "lastSuccess": 1719846518839
     },
     "dl-obb.js": {
-      "total": 19,
-      "success": 19,
-      "last": 1719837460307,
-      "lastSuccess": 1719837460307
+      "total": 20,
+      "success": 20,
+      "last": 1719846592629,
+      "lastSuccess": 1719846592629
     }
   },
   "msgs": {},
