@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1232,
-      "exp": 17110,
+      "messaggi": 1302,
+      "exp": 17701,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -4316,10 +4316,20 @@
       "money": null
     },
     "212696102990@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 4,
+      "exp": 35,
+      "limit": 20,
+      "money": 0,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "@jamal 45",
+      "muto": false
     },
     "212718530640@s.whatsapp.net": {
       "messaggi": 1,
@@ -4556,10 +4566,10 @@
       "money": null
     },
     "212679572480@s.whatsapp.net": {
-      "messaggi": 13,
-      "exp": 186,
-      "limit": 2,
-      "money": null,
+      "messaggi": 34,
+      "exp": 576,
+      "limit": 1034,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -4568,8 +4578,12 @@
       "premiumDate": -1,
       "tprem": 0,
       "premiumTime": 0,
-      "name": "Mohamed Amti",
-      "muto": false
+      "name": "moha",
+      "muto": false,
+      "lastclaim": 1719835880276,
+      "age": 12,
+      "regTime": 1719836971492,
+      "registered": true
     },
     "212719946339@s.whatsapp.net": {
       "messaggi": 1,
@@ -4646,6 +4660,18 @@
       "money": null
     },
     "212711305093@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212656622125@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212689375477@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -6010,7 +6036,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 93,
+      "messaggi": 99,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -6049,7 +6075,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 520,
+      "messaggi": 523,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -6244,7 +6270,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 605,
+      "messaggi": 607,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -13654,7 +13680,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 1,
+      "messaggi": 6,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14473,7 +14499,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 39,
+      "messaggi": 84,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14597,6 +14623,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "120363297820779032@g.us": {
+      "name": "FunDoo",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 35,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -14619,10 +14684,10 @@
       "lastSuccess": 1718641422723
     },
     "_config-make-account.js": {
-      "total": 17,
-      "success": 4,
-      "last": 1719610930410,
-      "lastSuccess": 1718845167183
+      "total": 18,
+      "success": 5,
+      "last": 1719836971684,
+      "lastSuccess": 1719836971684
     },
     "_config-delacc.js": {
       "total": 3,
@@ -14685,9 +14750,9 @@
       "lastSuccess": 1718640996368
     },
     "dl-ig.js": {
-      "total": 12,
+      "total": 14,
       "success": 4,
-      "last": 1718980630952,
+      "last": 1719837078484,
       "lastSuccess": 1718884221304
     },
     "dl-fb.js": {
@@ -14697,16 +14762,16 @@
       "lastSuccess": 1719782507762
     },
     "dl-ytmp3.js": {
-      "total": 43,
-      "success": 39,
-      "last": 1719770983893,
-      "lastSuccess": 1719770983893
+      "total": 46,
+      "success": 42,
+      "last": 1719836016295,
+      "lastSuccess": 1719836016295
     },
     "dl-play.js": {
-      "total": 76,
-      "success": 74,
-      "last": 1719770978225,
-      "lastSuccess": 1719770978225
+      "total": 79,
+      "success": 77,
+      "last": 1719836863737,
+      "lastSuccess": 1719836863737
     },
     "dl-ytmp4.js": {
       "total": 33,
@@ -14721,16 +14786,16 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 154,
-      "success": 154,
-      "last": 1719833376771,
-      "lastSuccess": 1719833376771
+      "total": 160,
+      "success": 160,
+      "last": 1719837408707,
+      "lastSuccess": 1719837408707
     },
     "dl-Ai.js": {
-      "total": 25,
-      "success": 25,
-      "last": 1719833389761,
-      "lastSuccess": 1719833389761
+      "total": 26,
+      "success": 26,
+      "last": 1719837440893,
+      "lastSuccess": 1719837440893
     },
     "dl-doapk.js": {
       "total": 4,
@@ -14769,10 +14834,10 @@
       "lastSuccess": 1718883853437
     },
     "_config-gift.js": {
-      "total": 6,
-      "success": 4,
-      "last": 1719781992760,
-      "lastSuccess": 1719781992760
+      "total": 7,
+      "success": 5,
+      "last": 1719835880276,
+      "lastSuccess": 1719835880276
     },
     "dl-manga.js": {
       "total": 2,
@@ -14811,22 +14876,22 @@
       "lastSuccess": 1718839022510
     },
     "_config-add-diamantes.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1718839011794,
-      "lastSuccess": 1718839011794
+      "total": 4,
+      "success": 3,
+      "last": 1719836878161,
+      "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 199,
-      "success": 193,
-      "last": 1719828532149,
-      "lastSuccess": 1719828532149
+      "total": 206,
+      "success": 198,
+      "last": 1719838407531,
+      "lastSuccess": 1719838407531
     },
     "dl-obb.js": {
-      "total": 18,
-      "success": 18,
-      "last": 1719772341250,
-      "lastSuccess": 1719772341250
+      "total": 19,
+      "success": 19,
+      "last": 1719837460307,
+      "lastSuccess": 1719837460307
     }
   },
   "msgs": {},
