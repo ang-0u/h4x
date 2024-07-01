@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1413,
-      "exp": 18459,
+      "messaggi": 1415,
+      "exp": 18466,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -513,7 +513,7 @@
       "lastclaim": 1719781992760
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 527,
+      "messaggi": 528,
       "exp": 100000000000000030000,
       "limit": 2015,
       "money": 0,
@@ -6135,7 +6135,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 537,
+      "messaggi": 540,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14885,10 +14885,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 164,
-      "success": 164,
-      "last": 1719862841203,
-      "lastSuccess": 1719862841203
+      "total": 165,
+      "success": 165,
+      "last": 1719865612637,
+      "lastSuccess": 1719865612637
     },
     "dl-Ai.js": {
       "total": 26,
