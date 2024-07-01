@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1402,
-      "exp": 18380,
+      "messaggi": 1407,
+      "exp": 18418,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -513,9 +513,9 @@
       "lastclaim": 1719781992760
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 523,
-      "exp": 27089,
-      "limit": 1015,
+      "messaggi": 525,
+      "exp": 100000000000000030000,
+      "limit": 2015,
       "money": 0,
       "blasphemy": 0,
       "msg": {},
@@ -534,12 +534,12 @@
       "registroR": false,
       "genero": 0,
       "identidad": 0,
-      "level": 6,
+      "level": 7,
       "pasatiempo": 0,
       "premLimit": 1,
       "tiempo": 0,
       "descripcion": 0,
-      "lastclaim": 1718803435797
+      "lastclaim": 1719862051209
     },
     "120363265300043247@g.us": {
       "messaggi": 1,
@@ -6135,7 +6135,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 528,
+      "messaggi": 532,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14715,7 +14715,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 39,
+      "messaggi": 42,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14927,16 +14927,16 @@
       "lastSuccess": 1719610946516
     },
     "levelup.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1718883853437,
-      "lastSuccess": 1718883853437
+      "total": 5,
+      "success": 5,
+      "last": 1719862102124,
+      "lastSuccess": 1719862102124
     },
     "_config-gift.js": {
-      "total": 7,
-      "success": 5,
-      "last": 1719835880276,
-      "lastSuccess": 1719835880276
+      "total": 8,
+      "success": 6,
+      "last": 1719862051209,
+      "lastSuccess": 1719862051209
     },
     "dl-manga.js": {
       "total": 2,
@@ -14991,6 +14991,12 @@
       "success": 21,
       "last": 1719850503283,
       "lastSuccess": 1719850503283
+    },
+    "_config-addxp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1719862189685,
+      "lastSuccess": 1719862189685
     }
   },
   "msgs": {},
