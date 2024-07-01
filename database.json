@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1363,
-      "exp": 18135,
+      "messaggi": 1399,
+      "exp": 18363,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -798,8 +798,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 325,
-      "exp": 1854,
+      "messaggi": 326,
+      "exp": 1857,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4566,9 +4566,9 @@
       "money": null
     },
     "212679572480@s.whatsapp.net": {
-      "messaggi": 71,
-      "exp": 1147,
-      "limit": 898,
+      "messaggi": 90,
+      "exp": 1444,
+      "limit": 823,
       "money": null,
       "blasphemy": 0,
       "msg": {},
@@ -4678,8 +4678,8 @@
       "money": null
     },
     "212780495074@s.whatsapp.net": {
-      "messaggi": 4,
-      "exp": 8,
+      "messaggi": 7,
+      "exp": 19,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -6286,7 +6286,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 608,
+      "messaggi": 609,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14515,7 +14515,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 162,
+      "messaggi": 199,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14593,7 +14593,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 14,
+      "messaggi": 35,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14817,22 +14817,22 @@
       "lastSuccess": 1719782507762
     },
     "dl-ytmp3.js": {
-      "total": 54,
-      "success": 50,
-      "last": 1719841443134,
-      "lastSuccess": 1719841443134
+      "total": 57,
+      "success": 53,
+      "last": 1719849448246,
+      "lastSuccess": 1719849448246
     },
     "dl-play.js": {
-      "total": 86,
-      "success": 84,
-      "last": 1719841429986,
-      "lastSuccess": 1719841429986
+      "total": 92,
+      "success": 90,
+      "last": 1719849862227,
+      "lastSuccess": 1719849862227
     },
     "dl-ytmp4.js": {
-      "total": 37,
-      "success": 30,
-      "last": 1719841470668,
-      "lastSuccess": 1719841470668
+      "total": 40,
+      "success": 33,
+      "last": 1719849876186,
+      "lastSuccess": 1719849876186
     },
     "menu-other.js": {
       "total": 9,
@@ -14937,16 +14937,16 @@
       "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 210,
-      "success": 202,
-      "last": 1719846518839,
-      "lastSuccess": 1719846518839
+      "total": 211,
+      "success": 203,
+      "last": 1719850480606,
+      "lastSuccess": 1719850480606
     },
     "dl-obb.js": {
-      "total": 20,
-      "success": 20,
-      "last": 1719846592629,
-      "lastSuccess": 1719846592629
+      "total": 21,
+      "success": 21,
+      "last": 1719850503283,
+      "lastSuccess": 1719850503283
     }
   },
   "msgs": {},
