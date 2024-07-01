@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1415,
-      "exp": 18466,
+      "messaggi": 1416,
+      "exp": 18473,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -513,10 +513,10 @@
       "lastclaim": 1719781992760
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 528,
+      "messaggi": 532,
       "exp": 100000000000000030000,
       "limit": 2015,
-      "money": 0,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -4736,6 +4736,12 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212618219323@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -6135,7 +6141,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 540,
+      "messaggi": 541,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -6330,7 +6336,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 610,
+      "messaggi": 611,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14715,7 +14721,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 43,
+      "messaggi": 47,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14765,10 +14771,10 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 112,
-      "success": 94,
-      "last": 1719862784347,
-      "lastSuccess": 1718843328382
+      "total": 113,
+      "success": 95,
+      "last": 1719867083903,
+      "lastSuccess": 1719867083903
     },
     "owner-exec.js": {
       "total": 27,
