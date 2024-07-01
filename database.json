@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 33,
-      "exp": 192,
+      "messaggi": 34,
+      "exp": 200,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -259,7 +259,7 @@
       "muto": false
     },
     "12052565896@s.whatsapp.net": {
-      "messaggi": 38,
+      "messaggi": 39,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 30,
-      "exp": 156,
+      "messaggi": 31,
+      "exp": 161,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -676,7 +676,7 @@
       "muto": false
     },
     "12013613613@s.whatsapp.net": {
-      "messaggi": 19,
+      "messaggi": 20,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -754,8 +754,8 @@
       "muto": false
     },
     "6285768285596@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 0,
+      "messaggi": 3,
+      "exp": 10,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4638,6 +4638,12 @@
       "premiumTime": 0,
       "name": "tu manquito",
       "muto": false
+    },
+    "130576031948827@lid": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -5296,7 +5302,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 269,
+      "messaggi": 274,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -5334,7 +5340,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 9,
+      "messaggi": 10,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
