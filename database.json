@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1225,
-      "exp": 17050,
+      "messaggi": 1232,
+      "exp": 17110,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -3640,10 +3640,10 @@
       "muto": false
     },
     "212638072323@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 10,
+      "messaggi": 8,
+      "exp": 106,
       "limit": 20,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -12055,7 +12055,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 1,
+      "messaggi": 14,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14721,16 +14721,16 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 152,
-      "success": 152,
-      "last": 1719795249482,
-      "lastSuccess": 1719795249482
+      "total": 154,
+      "success": 154,
+      "last": 1719833376771,
+      "lastSuccess": 1719833376771
     },
     "dl-Ai.js": {
-      "total": 24,
-      "success": 24,
-      "last": 1719610982515,
-      "lastSuccess": 1719610982515
+      "total": 25,
+      "success": 25,
+      "last": 1719833389761,
+      "lastSuccess": 1719833389761
     },
     "dl-doapk.js": {
       "total": 4,
@@ -14787,10 +14787,10 @@
       "lastSuccess": 0
     },
     "translet.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1718839092784,
-      "lastSuccess": 1718839092784
+      "total": 7,
+      "success": 7,
+      "last": 1719833825642,
+      "lastSuccess": 1719833825642
     },
     "_config-listprem.js": {
       "total": 2,
