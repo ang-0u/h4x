@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1407,
-      "exp": 18418,
+      "messaggi": 1413,
+      "exp": 18459,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -513,7 +513,7 @@
       "lastclaim": 1719781992760
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 525,
+      "messaggi": 527,
       "exp": 100000000000000030000,
       "limit": 2015,
       "money": 0,
@@ -704,10 +704,10 @@
       "money": null
     },
     "595972712861@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 7,
-      "limit": 20,
-      "money": null,
+      "messaggi": 3,
+      "exp": 25,
+      "limit": 15,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -738,7 +738,7 @@
       "money": null
     },
     "50248975917@s.whatsapp.net": {
-      "messaggi": 14,
+      "messaggi": 16,
       "exp": 31,
       "limit": 20,
       "money": null,
@@ -5394,7 +5394,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 314,
+      "messaggi": 319,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -6135,7 +6135,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 532,
+      "messaggi": 537,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14715,7 +14715,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 42,
+      "messaggi": 43,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14765,9 +14765,9 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 111,
+      "total": 112,
       "success": 94,
-      "last": 1718843328382,
+      "last": 1719862784347,
       "lastSuccess": 1718843328382
     },
     "owner-exec.js": {
@@ -14885,10 +14885,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 163,
-      "success": 163,
-      "last": 1719860772117,
-      "lastSuccess": 1719860772117
+      "total": 164,
+      "success": 164,
+      "last": 1719862841203,
+      "lastSuccess": 1719862841203
     },
     "dl-Ai.js": {
       "total": 26,
@@ -14909,10 +14909,10 @@
       "lastSuccess": 1718830848883
     },
     "dl-tiktok.js": {
-      "total": 10,
-      "success": 3,
-      "last": 1719839626372,
-      "lastSuccess": 1719611041563
+      "total": 11,
+      "success": 4,
+      "last": 1719862820987,
+      "lastSuccess": 1719862820987
     },
     "dl-mega.js": {
       "total": 4,
