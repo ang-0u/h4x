@@ -798,8 +798,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 326,
-      "exp": 1857,
+      "messaggi": 327,
+      "exp": 1863,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -1224,8 +1224,8 @@
       "muto": false
     },
     "212605493778@s.whatsapp.net": {
-      "messaggi": 4,
-      "exp": 7,
+      "messaggi": 5,
+      "exp": 17,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -3624,8 +3624,8 @@
       "muto": false
     },
     "212635991342@s.whatsapp.net": {
-      "messaggi": 3,
-      "exp": 17,
+      "messaggi": 4,
+      "exp": 19,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4564,10 +4564,20 @@
       "muto": false
     },
     "212618697657@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 10,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "+212 618-697657",
+      "muto": false
     },
     "212718717900@s.whatsapp.net": {
       "messaggi": 1,
@@ -6442,7 +6452,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 616,
+      "messaggi": 620,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
