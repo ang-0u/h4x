@@ -3672,10 +3672,20 @@
       "muto": false
     },
     "212764515669@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 4,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "+212 764-515669",
+      "muto": false
     },
     "212680165013@s.whatsapp.net": {
       "messaggi": 1,
@@ -6360,7 +6370,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 615,
+      "messaggi": 616,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
