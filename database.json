@@ -798,8 +798,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 328,
-      "exp": 1871,
+      "messaggi": 329,
+      "exp": 1875,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4882,6 +4882,12 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212631311054@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -6476,7 +6482,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 625,
+      "messaggi": 627,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
