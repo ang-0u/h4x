@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 38,
-      "exp": 221,
+      "messaggi": 39,
+      "exp": 224,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1433,
-      "exp": 18584,
+      "messaggi": 1434,
+      "exp": 18591,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -4778,6 +4778,22 @@
       "money": null
     },
     "15743453860@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 7,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "✨",
+      "muto": false
+    },
+    "972519725670@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -5440,7 +5456,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 324,
+      "messaggi": 328,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14847,10 +14863,10 @@
       "lastSuccess": 1718839042421
     },
     "bot-ping.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1718844377700,
-      "lastSuccess": 1718844377700
+      "total": 7,
+      "success": 7,
+      "last": 1719913688196,
+      "lastSuccess": 1719913688196
     },
     "allmenu.js": {
       "total": 11,
