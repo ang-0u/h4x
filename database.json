@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1434,
-      "exp": 18591,
+      "messaggi": 1437,
+      "exp": 18610,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -4810,6 +4810,22 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212619400613@s.whatsapp.net": {
+      "messaggi": 5,
+      "exp": 37,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "ℕᎾᎯℳᎯℕℰ ℰЅЅᎯℬⅅᎯℕℐ",
+      "muto": false
     }
   },
   "chats": {
@@ -14835,6 +14851,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212619400613@s.whatsapp.net": {
+      "name": "ℕᎾᎯℳᎯℕℰ ℰЅЅᎯℬⅅᎯℕℐ",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 8,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -14959,10 +15014,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 166,
-      "success": 166,
-      "last": 1719877974980,
-      "lastSuccess": 1719877974980
+      "total": 167,
+      "success": 167,
+      "last": 1719927737544,
+      "lastSuccess": 1719927737544
     },
     "dl-Ai.js": {
       "total": 30,
@@ -15055,10 +15110,10 @@
       "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 213,
-      "success": 205,
-      "last": 1719872464284,
-      "lastSuccess": 1719872464284
+      "total": 214,
+      "success": 206,
+      "last": 1719927718578,
+      "lastSuccess": 1719927718578
     },
     "dl-obb.js": {
       "total": 21,
