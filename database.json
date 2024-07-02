@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1431,
-      "exp": 18567,
+      "messaggi": 1433,
+      "exp": 18584,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -4776,6 +4776,12 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "15743453860@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -5434,7 +5440,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 321,
+      "messaggi": 324,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -14949,10 +14955,10 @@
       "lastSuccess": 1718830848883
     },
     "dl-tiktok.js": {
-      "total": 11,
-      "success": 4,
-      "last": 1719862820987,
-      "lastSuccess": 1719862820987
+      "total": 12,
+      "success": 5,
+      "last": 1719905654917,
+      "lastSuccess": 1719905654917
     },
     "dl-mega.js": {
       "total": 4,
