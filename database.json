@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 50,
-      "exp": 275,
+      "messaggi": 52,
+      "exp": 282,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 43,
-      "exp": 226,
+      "messaggi": 44,
+      "exp": 232,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -612,7 +612,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 50,
+      "messaggi": 51,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -644,7 +644,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 37,
+      "messaggi": 38,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -738,8 +738,8 @@
       "money": null
     },
     "50248975917@s.whatsapp.net": {
-      "messaggi": 20,
-      "exp": 42,
+      "messaggi": 23,
+      "exp": 51,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4826,7 +4826,7 @@
       "money": null
     },
     "51954845762@s.whatsapp.net": {
-      "messaggi": 9,
+      "messaggi": 11,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -4912,8 +4912,8 @@
       "money": null
     },
     "51916933313@s.whatsapp.net": {
-      "messaggi": 2,
-      "exp": 1,
+      "messaggi": 3,
+      "exp": 6,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4926,6 +4926,12 @@
       "premiumTime": 0,
       "name": "おㅤ⨭ᴄ꯭᷍ʜ𝆭ɪᴄ፝҉𑆾ִㅤʟ꯭ᴜׄꥇᴄᴀ፝͜s お.",
       "muto": false
+    },
+    "177489959772268@lid": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -5584,7 +5590,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 425,
+      "messaggi": 436,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -5622,7 +5628,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 18,
+      "messaggi": 19,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
