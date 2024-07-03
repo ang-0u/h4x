@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 55,
-      "exp": 292,
+      "messaggi": 56,
+      "exp": 296,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1465,
-      "exp": 18772,
+      "messaggi": 1468,
+      "exp": 18789,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -564,8 +564,8 @@
       "muto": false
     },
     "120363261861628491@g.us": {
-      "messaggi": 10,
-      "exp": 53,
+      "messaggi": 11,
+      "exp": 61,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -580,8 +580,8 @@
       "muto": false
     },
     "120363148902152328@g.us": {
-      "messaggi": 10,
-      "exp": 52,
+      "messaggi": 11,
+      "exp": 61,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -612,7 +612,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 54,
+      "messaggi": 56,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -676,7 +676,7 @@
       "muto": false
     },
     "12013613613@s.whatsapp.net": {
-      "messaggi": 20,
+      "messaggi": 21,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -738,8 +738,8 @@
       "money": null
     },
     "50248975917@s.whatsapp.net": {
-      "messaggi": 35,
-      "exp": 103,
+      "messaggi": 38,
+      "exp": 115,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4326,8 +4326,8 @@
       "money": null
     },
     "212696102990@s.whatsapp.net": {
-      "messaggi": 7,
-      "exp": 84,
+      "messaggi": 11,
+      "exp": 106,
       "limit": 11,
       "money": null,
       "blasphemy": 0,
@@ -4826,7 +4826,7 @@
       "money": null
     },
     "51954845762@s.whatsapp.net": {
-      "messaggi": 14,
+      "messaggi": 16,
       "exp": 17,
       "limit": 20,
       "money": null,
@@ -4971,6 +4971,12 @@
       "muto": false
     },
     "212623401102@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "13307024452@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -5633,7 +5639,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 495,
+      "messaggi": 506,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -5671,7 +5677,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 20,
+      "messaggi": 21,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -13979,7 +13985,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 12,
+      "messaggi": 19,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -15259,10 +15265,10 @@
       "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 216,
-      "success": 208,
-      "last": 1719998961788,
-      "lastSuccess": 1719998961788
+      "total": 219,
+      "success": 211,
+      "last": 1720023375971,
+      "lastSuccess": 1720023375971
     },
     "dl-obb.js": {
       "total": 21,
