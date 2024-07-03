@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1458,
-      "exp": 18734,
+      "messaggi": 1461,
+      "exp": 18748,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -4788,8 +4788,8 @@
       "money": null
     },
     "15743453860@s.whatsapp.net": {
-      "messaggi": 6,
-      "exp": 30,
+      "messaggi": 9,
+      "exp": 53,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4842,8 +4842,8 @@
       "muto": false
     },
     "212619400613@s.whatsapp.net": {
-      "messaggi": 5,
-      "exp": 37,
+      "messaggi": 9,
+      "exp": 88,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4855,7 +4855,10 @@
       "tprem": 0,
       "premiumTime": 0,
       "name": "ℕᎾᎯℳᎯℕℰ ℰЅЅᎯℬⅅᎯℕℐ",
-      "muto": false
+      "muto": false,
+      "age": 18,
+      "regTime": 1720011838834,
+      "registered": true
     },
     "393663886031@s.whatsapp.net": {
       "messaggi": 1,
@@ -5608,7 +5611,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 441,
+      "messaggi": 444,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -15007,7 +15010,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 8,
+      "messaggi": 15,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -15036,10 +15039,10 @@
       "lastSuccess": 1718641422723
     },
     "_config-make-account.js": {
-      "total": 18,
-      "success": 5,
-      "last": 1719836971684,
-      "lastSuccess": 1719836971684
+      "total": 20,
+      "success": 6,
+      "last": 1720011839125,
+      "lastSuccess": 1720011839125
     },
     "_config-delacc.js": {
       "total": 3,
