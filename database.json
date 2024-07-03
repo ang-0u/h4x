@@ -4944,6 +4944,12 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212647210831@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -6538,7 +6544,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 631,
+      "messaggi": 632,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
