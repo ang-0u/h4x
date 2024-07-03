@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 53,
-      "exp": 289,
+      "messaggi": 54,
+      "exp": 290,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -564,8 +564,8 @@
       "muto": false
     },
     "120363261861628491@g.us": {
-      "messaggi": 9,
-      "exp": 51,
+      "messaggi": 10,
+      "exp": 53,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -580,8 +580,8 @@
       "muto": false
     },
     "120363148902152328@g.us": {
-      "messaggi": 9,
-      "exp": 47,
+      "messaggi": 10,
+      "exp": 52,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -612,7 +612,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 52,
+      "messaggi": 54,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -738,8 +738,8 @@
       "money": null
     },
     "50248975917@s.whatsapp.net": {
-      "messaggi": 23,
-      "exp": 51,
+      "messaggi": 27,
+      "exp": 60,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4788,8 +4788,8 @@
       "money": null
     },
     "15743453860@s.whatsapp.net": {
-      "messaggi": 9,
-      "exp": 53,
+      "messaggi": 11,
+      "exp": 60,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4949,6 +4949,12 @@
       "money": null
     },
     "212647210831@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "18172542735@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -5611,7 +5617,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 444,
+      "messaggi": 455,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -5649,7 +5655,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 19,
+      "messaggi": 20,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
