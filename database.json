@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1583,
-      "exp": 19463,
+      "messaggi": 1591,
+      "exp": 19510,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -2943,8 +2943,8 @@
       "money": null
     },
     "212649786753@s.whatsapp.net": {
-      "messaggi": 14,
-      "exp": 185,
+      "messaggi": 15,
+      "exp": 187,
       "limit": 4,
       "money": null,
       "blasphemy": 0,
@@ -4028,8 +4028,8 @@
       "muto": false
     },
     "212681834304@s.whatsapp.net": {
-      "messaggi": 31,
-      "exp": 279,
+      "messaggi": 39,
+      "exp": 358,
       "limit": 2,
       "money": null,
       "blasphemy": 0,
@@ -5417,6 +5417,24 @@
       "premiumTime": 0,
       "name": "Y💔-🧠=⚽🫀",
       "muto": false
+    },
+    "212606389740@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212700722297@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212705525095@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -7011,7 +7029,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 727,
+      "messaggi": 729,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -10872,7 +10890,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 21,
+      "messaggi": 23,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -13680,7 +13698,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 54,
+      "messaggi": 68,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16027,6 +16045,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212705525095@s.whatsapp.net": {
+      "name": "Soufyaine",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 2,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -16151,10 +16208,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 183,
-      "success": 183,
-      "last": 1720099464105,
-      "lastSuccess": 1720099464105
+      "total": 184,
+      "success": 184,
+      "last": 1720106403746,
+      "lastSuccess": 1720106403746
     },
     "dl-Ai.js": {
       "total": 37,
@@ -16187,10 +16244,10 @@
       "lastSuccess": 1718807024264
     },
     "dl-img.js": {
-      "total": 38,
-      "success": 31,
-      "last": 1720101816700,
-      "lastSuccess": 1720101816700
+      "total": 40,
+      "success": 33,
+      "last": 1720106465523,
+      "lastSuccess": 1720106465523
     },
     "levelup.js": {
       "total": 5,
@@ -16247,10 +16304,10 @@
       "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 254,
-      "success": 246,
-      "last": 1720104027079,
-      "lastSuccess": 1720104027079
+      "total": 258,
+      "success": 250,
+      "last": 1720106517621,
+      "lastSuccess": 1720106517621
     },
     "dl-obb.js": {
       "total": 22,
