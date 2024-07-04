@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 63,
-      "exp": 330,
+      "messaggi": 65,
+      "exp": 345,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 54,
-      "exp": 278,
+      "messaggi": 55,
+      "exp": 287,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -612,7 +612,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 62,
+      "messaggi": 65,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -644,7 +644,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 46,
+      "messaggi": 48,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -4896,8 +4896,8 @@
       "money": null
     },
     "51954845762@s.whatsapp.net": {
-      "messaggi": 26,
-      "exp": 75,
+      "messaggi": 31,
+      "exp": 120,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5047,8 +5047,8 @@
       "money": null
     },
     "13307024452@s.whatsapp.net": {
-      "messaggi": 6,
-      "exp": 18,
+      "messaggi": 7,
+      "exp": 25,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5491,6 +5491,28 @@
       "muto": false
     },
     "12086267617@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "13105650625@s.whatsapp.net": {
+      "messaggi": 3,
+      "exp": 14,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Kekko",
+      "muto": false
+    },
+    "11347773374529@lid": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -6153,7 +6175,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 570,
+      "messaggi": 587,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -6191,7 +6213,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 23,
+      "messaggi": 24,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16367,10 +16389,10 @@
       "lastSuccess": 1720106946422
     },
     "dl-play.js": {
-      "total": 102,
-      "success": 100,
-      "last": 1720106867843,
-      "lastSuccess": 1720106867843
+      "total": 103,
+      "success": 101,
+      "last": 1720114313893,
+      "lastSuccess": 1720114313893
     },
     "dl-ytmp4.js": {
       "total": 43,
