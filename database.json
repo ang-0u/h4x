@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1475,
-      "exp": 18836,
+      "messaggi": 1482,
+      "exp": 18879,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -513,7 +513,7 @@
       "lastclaim": 1719781992760
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 543,
+      "messaggi": 549,
       "exp": 100000000000000030000,
       "limit": 2015,
       "money": 0,
@@ -6414,7 +6414,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 570,
+      "messaggi": 583,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -15083,10 +15083,10 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 113,
-      "success": 95,
-      "last": 1719867083903,
-      "lastSuccess": 1719867083903
+      "total": 114,
+      "success": 96,
+      "last": 1720062108223,
+      "lastSuccess": 1720062108223
     },
     "owner-exec.js": {
       "total": 27,
@@ -15203,10 +15203,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 171,
-      "success": 171,
-      "last": 1720017695524,
-      "lastSuccess": 1720017695524
+      "total": 173,
+      "success": 173,
+      "last": 1720062123728,
+      "lastSuccess": 1720062123728
     },
     "dl-Ai.js": {
       "total": 31,
@@ -15315,6 +15315,12 @@
       "success": 2,
       "last": 1719862189685,
       "lastSuccess": 1719862189685
+    },
+    "list-menu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1720062129918,
+      "lastSuccess": 1720062129918
     }
   },
   "msgs": {},
