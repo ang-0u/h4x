@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1614,
-      "exp": 19629,
+      "messaggi": 1634,
+      "exp": 19732,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -612,7 +612,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 66,
+      "messaggi": 67,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -738,8 +738,8 @@
       "money": null
     },
     "50248975917@s.whatsapp.net": {
-      "messaggi": 42,
-      "exp": 144,
+      "messaggi": 43,
+      "exp": 153,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -798,8 +798,8 @@
       "money": null
     },
     "120363292730624496@g.us": {
-      "messaggi": 335,
-      "exp": 1907,
+      "messaggi": 336,
+      "exp": 1915,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4666,9 +4666,9 @@
       "money": null
     },
     "212679572480@s.whatsapp.net": {
-      "messaggi": 104,
-      "exp": 1687,
-      "limit": 786,
+      "messaggi": 113,
+      "exp": 1894,
+      "limit": 741,
       "money": 0,
       "blasphemy": 0,
       "msg": {},
@@ -4738,8 +4738,8 @@
       "money": null
     },
     "51976284285@s.whatsapp.net": {
-      "messaggi": 11,
-      "exp": 73,
+      "messaggi": 12,
+      "exp": 82,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5569,6 +5569,44 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212777791114@s.whatsapp.net": {
+      "messaggi": 4,
+      "exp": 12,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Yaheya Zareheu",
+      "muto": false
+    },
+    "212684776347@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212716609394@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 6,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "B O T £",
+      "muto": false
     }
   },
   "chats": {
@@ -6227,7 +6265,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 596,
+      "messaggi": 601,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -7163,7 +7201,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 741,
+      "messaggi": 743,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -15392,7 +15430,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 229,
+      "messaggi": 256,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16335,6 +16373,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212777791114@s.whatsapp.net": {
+      "name": "Yaheya Zareheu",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 6,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -16495,10 +16572,10 @@
       "lastSuccess": 1718807024264
     },
     "dl-img.js": {
-      "total": 42,
-      "success": 35,
-      "last": 1720136314937,
-      "lastSuccess": 1720136314937
+      "total": 51,
+      "success": 44,
+      "last": 1720136681478,
+      "lastSuccess": 1720136681478
     },
     "levelup.js": {
       "total": 5,
@@ -16555,10 +16632,10 @@
       "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 263,
-      "success": 255,
-      "last": 1720135208281,
-      "lastSuccess": 1720135208281
+      "total": 265,
+      "success": 257,
+      "last": 1720137289526,
+      "lastSuccess": 1720137289526
     },
     "dl-obb.js": {
       "total": 22,
