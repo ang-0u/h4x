@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 84,
-      "exp": 439,
+      "messaggi": 86,
+      "exp": 452,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 77,
-      "exp": 386,
+      "messaggi": 83,
+      "exp": 417,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1665,
-      "exp": 19955,
+      "messaggi": 1666,
+      "exp": 19958,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -647,7 +647,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 61,
+      "messaggi": 64,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -741,8 +741,8 @@
       "money": null
     },
     "50248975917@s.whatsapp.net": {
-      "messaggi": 48,
-      "exp": 216,
+      "messaggi": 53,
+      "exp": 247,
       "limit": 11,
       "money": null,
       "blasphemy": 0,
@@ -4909,8 +4909,8 @@
       "money": null
     },
     "51954845762@s.whatsapp.net": {
-      "messaggi": 84,
-      "exp": 395,
+      "messaggi": 92,
+      "exp": 439,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5550,10 +5550,20 @@
       "money": null
     },
     "393791289594@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 1,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "G A B R I | 08✨",
+      "muto": false
     },
     "212620410766@s.whatsapp.net": {
       "messaggi": 1,
@@ -5596,8 +5606,8 @@
       "money": null
     },
     "212716609394@s.whatsapp.net": {
-      "messaggi": 33,
-      "exp": 193,
+      "messaggi": 39,
+      "exp": 235,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -6334,7 +6344,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 753,
+      "messaggi": 785,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
