@@ -5607,6 +5607,12 @@
       "premiumTime": 0,
       "name": "B O T £",
       "muto": false
+    },
+    "212600212357@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -7201,7 +7207,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 743,
+      "messaggi": 744,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
