@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1666,
-      "exp": 19958,
+      "messaggi": 1669,
+      "exp": 19971,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -2762,9 +2762,9 @@
       "muto": false
     },
     "212634465961@s.whatsapp.net": {
-      "messaggi": 7,
-      "exp": 68,
-      "limit": 20,
+      "messaggi": 10,
+      "exp": 119,
+      "limit": 11,
       "money": null,
       "blasphemy": 0,
       "msg": {},
@@ -10701,7 +10701,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 13,
+      "messaggi": 19,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16658,16 +16658,16 @@
       "lastSuccess": 1720100474432
     },
     "dl-ytmp3.js": {
-      "total": 68,
-      "success": 64,
-      "last": 1720187157425,
-      "lastSuccess": 1720187157425
+      "total": 69,
+      "success": 65,
+      "last": 1720205649671,
+      "lastSuccess": 1720205649671
     },
     "dl-play.js": {
-      "total": 105,
-      "success": 103,
-      "last": 1720134735198,
-      "lastSuccess": 1720134735198
+      "total": 106,
+      "success": 104,
+      "last": 1720205632333,
+      "lastSuccess": 1720205632333
     },
     "dl-ytmp4.js": {
       "total": 44,
