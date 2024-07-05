@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1651,
-      "exp": 19834,
+      "messaggi": 1662,
+      "exp": 19941,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -508,9 +508,12 @@
       "premiumDate": -1,
       "tprem": 0,
       "premiumTime": 0,
-      "name": "Fundoo🏰",
+      "name": "mouad",
       "muto": false,
-      "lastclaim": 1719781992760
+      "lastclaim": 1719781992760,
+      "age": 16,
+      "regTime": 1720190081890,
+      "registered": true
     },
     "212630886351@s.whatsapp.net": {
       "messaggi": 567,
@@ -4906,8 +4909,8 @@
       "money": null
     },
     "51954845762@s.whatsapp.net": {
-      "messaggi": 62,
-      "exp": 295,
+      "messaggi": 84,
+      "exp": 395,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -16478,6 +16481,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "51954845762@s.whatsapp.net": {
+      "name": "FunDoo",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 33,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -16500,10 +16542,10 @@
       "lastSuccess": 1718641422723
     },
     "_config-make-account.js": {
-      "total": 24,
-      "success": 6,
-      "last": 1720098751391,
-      "lastSuccess": 1720011839125
+      "total": 25,
+      "success": 7,
+      "last": 1720190081959,
+      "lastSuccess": 1720190081959
     },
     "_config-delacc.js": {
       "total": 3,
@@ -16602,10 +16644,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 186,
-      "success": 186,
-      "last": 1720187199154,
-      "lastSuccess": 1720187199154
+      "total": 188,
+      "success": 188,
+      "last": 1720190095832,
+      "lastSuccess": 1720190095832
     },
     "dl-Ai.js": {
       "total": 38,
