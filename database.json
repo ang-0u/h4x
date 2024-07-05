@@ -5613,6 +5613,12 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212713430936@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -7207,7 +7213,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 744,
+      "messaggi": 745,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
