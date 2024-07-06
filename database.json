@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 136,
-      "exp": 723,
+      "messaggi": 141,
+      "exp": 755,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 133,
-      "exp": 680,
+      "messaggi": 147,
+      "exp": 754,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -615,7 +615,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 113,
+      "messaggi": 119,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -647,7 +647,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 96,
+      "messaggi": 101,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -5606,8 +5606,8 @@
       "money": null
     },
     "212716609394@s.whatsapp.net": {
-      "messaggi": 137,
-      "exp": 759,
+      "messaggi": 154,
+      "exp": 857,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5688,8 +5688,8 @@
       "money": null
     },
     "3197010269896@s.whatsapp.net": {
-      "messaggi": 56,
-      "exp": 243,
+      "messaggi": 61,
+      "exp": 274,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5750,8 +5750,8 @@
       "muto": false
     },
     "12173078200@s.whatsapp.net": {
-      "messaggi": 54,
-      "exp": 290,
+      "messaggi": 60,
+      "exp": 305,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5804,8 +5804,8 @@
       "muto": false
     },
     "393716876691@s.whatsapp.net": {
-      "messaggi": 41,
-      "exp": 259,
+      "messaggi": 56,
+      "exp": 348,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5845,6 +5845,22 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "15707767365@s.whatsapp.net": {
+      "messaggi": 7,
+      "exp": 36,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "bro",
+      "muto": false
     }
   },
   "chats": {
@@ -6503,7 +6519,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 1352,
+      "messaggi": 1432,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
