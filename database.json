@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 110,
-      "exp": 592,
+      "messaggi": 115,
+      "exp": 620,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 104,
-      "exp": 529,
+      "messaggi": 111,
+      "exp": 565,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1709,
-      "exp": 20242,
+      "messaggi": 1712,
+      "exp": 20269,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -567,8 +567,8 @@
       "muto": false
     },
     "120363261861628491@g.us": {
-      "messaggi": 17,
-      "exp": 99,
+      "messaggi": 18,
+      "exp": 107,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -583,8 +583,8 @@
       "muto": false
     },
     "120363148902152328@g.us": {
-      "messaggi": 21,
-      "exp": 113,
+      "messaggi": 22,
+      "exp": 117,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -615,7 +615,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 84,
+      "messaggi": 89,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -647,7 +647,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 75,
+      "messaggi": 79,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -707,10 +707,10 @@
       "money": null
     },
     "595972712861@s.whatsapp.net": {
-      "messaggi": 25,
-      "exp": 132,
+      "messaggi": 28,
+      "exp": 189,
       "limit": 15,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -741,7 +741,7 @@
       "money": null
     },
     "50248975917@s.whatsapp.net": {
-      "messaggi": 66,
+      "messaggi": 70,
       "exp": 318,
       "limit": 11,
       "money": null,
@@ -4909,8 +4909,8 @@
       "money": null
     },
     "51954845762@s.whatsapp.net": {
-      "messaggi": 123,
-      "exp": 646,
+      "messaggi": 124,
+      "exp": 651,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5606,8 +5606,8 @@
       "money": null
     },
     "212716609394@s.whatsapp.net": {
-      "messaggi": 75,
-      "exp": 419,
+      "messaggi": 86,
+      "exp": 474,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5688,8 +5688,8 @@
       "money": null
     },
     "3197010269896@s.whatsapp.net": {
-      "messaggi": 24,
-      "exp": 77,
+      "messaggi": 30,
+      "exp": 99,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5750,8 +5750,8 @@
       "muto": false
     },
     "12173078200@s.whatsapp.net": {
-      "messaggi": 27,
-      "exp": 133,
+      "messaggi": 32,
+      "exp": 151,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5801,6 +5801,22 @@
       "tprem": 0,
       "premiumTime": 0,
       "name": "Idriss",
+      "muto": false
+    },
+    "393716876691@s.whatsapp.net": {
+      "messaggi": 5,
+      "exp": 22,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "☁️𝑴𝒐𝒐𝒏𝑪𝒍𝒐𝒖𝒅𝒔⇝𝐁Ꮻ𝐓",
       "muto": false
     }
   },
@@ -6460,7 +6476,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 1018,
+      "messaggi": 1078,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -6498,7 +6514,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 31,
+      "messaggi": 32,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16914,10 +16930,10 @@
       "lastSuccess": 0
     },
     "translet.js": {
-      "total": 7,
-      "success": 7,
-      "last": 1719833825642,
-      "lastSuccess": 1719833825642
+      "total": 10,
+      "success": 10,
+      "last": 1720298101646,
+      "lastSuccess": 1720298101646
     },
     "_config-listprem.js": {
       "total": 2,
