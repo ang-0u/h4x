@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 109,
-      "exp": 584,
+      "messaggi": 110,
+      "exp": 592,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -615,7 +615,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 83,
+      "messaggi": 84,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -4041,8 +4041,8 @@
       "muto": false
     },
     "212681834304@s.whatsapp.net": {
-      "messaggi": 39,
-      "exp": 358,
+      "messaggi": 40,
+      "exp": 360,
       "limit": 2,
       "money": null,
       "blasphemy": 0,
@@ -5606,8 +5606,8 @@
       "money": null
     },
     "212716609394@s.whatsapp.net": {
-      "messaggi": 74,
-      "exp": 411,
+      "messaggi": 75,
+      "exp": 419,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5688,8 +5688,8 @@
       "money": null
     },
     "3197010269896@s.whatsapp.net": {
-      "messaggi": 23,
-      "exp": 74,
+      "messaggi": 24,
+      "exp": 77,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5750,8 +5750,8 @@
       "muto": false
     },
     "12173078200@s.whatsapp.net": {
-      "messaggi": 26,
-      "exp": 128,
+      "messaggi": 27,
+      "exp": 133,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5770,6 +5770,28 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "393761772422@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212773710005@s.whatsapp.net": {
+      "messaggi": 2,
+      "exp": 10,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Idriss",
+      "muto": false
     }
   },
   "chats": {
@@ -6428,7 +6450,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 1010,
+      "messaggi": 1018,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -7364,7 +7386,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 760,
+      "messaggi": 761,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
