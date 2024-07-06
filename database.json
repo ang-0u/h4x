@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1675,
-      "exp": 20003,
+      "messaggi": 1693,
+      "exp": 20100,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -1781,8 +1781,8 @@
       "money": null
     },
     "212720953059@s.whatsapp.net": {
-      "messaggi": 7,
-      "exp": 85,
+      "messaggi": 9,
+      "exp": 120,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4669,10 +4669,10 @@
       "money": null
     },
     "212679572480@s.whatsapp.net": {
-      "messaggi": 113,
-      "exp": 1894,
-      "limit": 741,
-      "money": 0,
+      "messaggi": 129,
+      "exp": 2158,
+      "limit": 696,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -7732,7 +7732,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 14,
+      "messaggi": 19,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -15571,7 +15571,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 256,
+      "messaggi": 287,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16731,16 +16731,16 @@
       "lastSuccess": 1720100474432
     },
     "dl-ytmp3.js": {
-      "total": 69,
-      "success": 65,
-      "last": 1720205649671,
-      "lastSuccess": 1720205649671
+      "total": 74,
+      "success": 70,
+      "last": 1720269617645,
+      "lastSuccess": 1720269617645
     },
     "dl-play.js": {
-      "total": 106,
-      "success": 104,
-      "last": 1720205632333,
-      "lastSuccess": 1720205632333
+      "total": 111,
+      "success": 109,
+      "last": 1720269600761,
+      "lastSuccess": 1720269600761
     },
     "dl-ytmp4.js": {
       "total": 46,
@@ -16755,10 +16755,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 188,
-      "success": 188,
-      "last": 1720190095832,
-      "lastSuccess": 1720190095832
+      "total": 189,
+      "success": 189,
+      "last": 1720267584505,
+      "lastSuccess": 1720267584505
     },
     "dl-Ai.js": {
       "total": 38,
@@ -16851,10 +16851,10 @@
       "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 268,
-      "success": 260,
-      "last": 1720192847634,
-      "lastSuccess": 1720192847634
+      "total": 269,
+      "success": 261,
+      "last": 1720267611259,
+      "lastSuccess": 1720267611259
     },
     "dl-obb.js": {
       "total": 22,
