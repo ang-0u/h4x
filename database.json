@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1760,
-      "exp": 20508,
+      "messaggi": 1776,
+      "exp": 20601,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -516,10 +516,10 @@
       "registered": true
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 583,
+      "messaggi": 600,
       "exp": 100000000000000030000,
       "limit": 2015,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -2966,8 +2966,8 @@
       "money": null
     },
     "212649786753@s.whatsapp.net": {
-      "messaggi": 15,
-      "exp": 187,
+      "messaggi": 16,
+      "exp": 189,
       "limit": 4,
       "money": null,
       "blasphemy": 0,
@@ -5953,10 +5953,10 @@
       "money": null
     },
     "212693696162@s.whatsapp.net": {
-      "messaggi": 15,
-      "exp": 180,
+      "messaggi": 18,
+      "exp": 248,
       "limit": 2,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -5969,6 +5969,24 @@
       "muto": false
     },
     "212690439528@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212664189346@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212712548630@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212700220457@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -7333,7 +7351,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 104,
+      "messaggi": 105,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -7372,7 +7390,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 645,
+      "messaggi": 673,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -7567,7 +7585,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 784,
+      "messaggi": 787,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -11428,7 +11446,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 23,
+      "messaggi": 24,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16927,7 +16945,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 29,
+      "messaggi": 36,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16938,16 +16956,16 @@
   },
   "stats": {
     "_config-sf-fils.js": {
-      "total": 114,
-      "success": 96,
-      "last": 1720062108223,
-      "lastSuccess": 1720062108223
+      "total": 118,
+      "success": 100,
+      "last": 1720394125183,
+      "lastSuccess": 1720394125183
     },
     "owner-exec.js": {
-      "total": 27,
-      "success": 27,
-      "last": 1718839792378,
-      "lastSuccess": 1718839792378
+      "total": 32,
+      "success": 32,
+      "last": 1720394158599,
+      "lastSuccess": 1720394158599
     },
     "_menu.js": {
       "total": 37,
@@ -17058,16 +17076,16 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 196,
-      "success": 196,
-      "last": 1720385631934,
-      "lastSuccess": 1720385631934
+      "total": 197,
+      "success": 197,
+      "last": 1720393460921,
+      "lastSuccess": 1720393460921
     },
     "dl-Ai.js": {
-      "total": 38,
-      "success": 38,
-      "last": 1720127258188,
-      "lastSuccess": 1720127258188
+      "total": 39,
+      "success": 39,
+      "last": 1720393517535,
+      "lastSuccess": 1720393517535
     },
     "dl-doapk.js": {
       "total": 4,
@@ -17094,10 +17112,10 @@
       "lastSuccess": 1718807024264
     },
     "dl-img.js": {
-      "total": 54,
-      "success": 47,
-      "last": 1720384525519,
-      "lastSuccess": 1720384525519
+      "total": 55,
+      "success": 48,
+      "last": 1720393483641,
+      "lastSuccess": 1720393483641
     },
     "levelup.js": {
       "total": 5,
@@ -17176,6 +17194,12 @@
       "success": 3,
       "last": 1720062129918,
       "lastSuccess": 1720062129918
+    },
+    "spotify.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1720394132235,
+      "lastSuccess": 0
     }
   },
   "msgs": {},
