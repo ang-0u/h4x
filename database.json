@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1754,
-      "exp": 20470,
+      "messaggi": 1760,
+      "exp": 20508,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -516,10 +516,10 @@
       "registered": true
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 575,
+      "messaggi": 583,
       "exp": 100000000000000030000,
       "limit": 2015,
-      "money": 0,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -5967,6 +5967,12 @@
       "premiumTime": 0,
       "name": "Hamza Moufrir",
       "muto": false
+    },
+    "212690439528@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -7366,7 +7372,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 631,
+      "messaggi": 645,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -7561,7 +7567,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 783,
+      "messaggi": 784,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -17034,16 +17040,16 @@
       "lastSuccess": 1720386166589
     },
     "dl-play.js": {
-      "total": 120,
-      "success": 118,
-      "last": 1720386072547,
-      "lastSuccess": 1720386072547
+      "total": 122,
+      "success": 120,
+      "last": 1720389236123,
+      "lastSuccess": 1720389236123
     },
     "dl-ytmp4.js": {
-      "total": 46,
-      "success": 39,
-      "last": 1720223818890,
-      "lastSuccess": 1720223818890
+      "total": 49,
+      "success": 42,
+      "last": 1720389257427,
+      "lastSuccess": 1720389257427
     },
     "menu-other.js": {
       "total": 9,
