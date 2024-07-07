@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1738,
-      "exp": 20401,
+      "messaggi": 1754,
+      "exp": 20470,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -5384,8 +5384,8 @@
       "muto": false
     },
     "212716308522@s.whatsapp.net": {
-      "messaggi": 3,
-      "exp": 5,
+      "messaggi": 4,
+      "exp": 9,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5951,6 +5951,22 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212693696162@s.whatsapp.net": {
+      "messaggi": 15,
+      "exp": 180,
+      "limit": 2,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "Hamza Moufrir",
+      "muto": false
     }
   },
   "chats": {
@@ -7311,7 +7327,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 103,
+      "messaggi": 104,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -7350,7 +7366,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 630,
+      "messaggi": 631,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -7545,7 +7561,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 782,
+      "messaggi": 783,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16873,6 +16889,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212693696162@s.whatsapp.net": {
+      "name": "Hamza Moufrir",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 29,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -16961,9 +17016,9 @@
       "lastSuccess": 1718640996368
     },
     "dl-ig.js": {
-      "total": 19,
+      "total": 20,
       "success": 4,
-      "last": 1720035755274,
+      "last": 1720385692021,
       "lastSuccess": 1718884221304
     },
     "dl-fb.js": {
@@ -16973,16 +17028,16 @@
       "lastSuccess": 1720100474432
     },
     "dl-ytmp3.js": {
-      "total": 75,
-      "success": 71,
-      "last": 1720316391812,
-      "lastSuccess": 1720316391812
+      "total": 79,
+      "success": 75,
+      "last": 1720386166589,
+      "lastSuccess": 1720386166589
     },
     "dl-play.js": {
-      "total": 118,
-      "success": 116,
-      "last": 1720375552947,
-      "lastSuccess": 1720375552947
+      "total": 120,
+      "success": 118,
+      "last": 1720386072547,
+      "lastSuccess": 1720386072547
     },
     "dl-ytmp4.js": {
       "total": 46,
@@ -16997,10 +17052,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 195,
-      "success": 195,
-      "last": 1720358723773,
-      "lastSuccess": 1720358723773
+      "total": 196,
+      "success": 196,
+      "last": 1720385631934,
+      "lastSuccess": 1720385631934
     },
     "dl-Ai.js": {
       "total": 38,
@@ -17093,10 +17148,10 @@
       "lastSuccess": 1719836878161
     },
     "test.js": {
-      "total": 274,
-      "success": 264,
-      "last": 1720377814133,
-      "lastSuccess": 1720377814133
+      "total": 277,
+      "success": 267,
+      "last": 1720386235523,
+      "lastSuccess": 1720386235523
     },
     "dl-obb.js": {
       "total": 22,
