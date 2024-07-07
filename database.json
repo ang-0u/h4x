@@ -243,8 +243,8 @@
       "money": null
     },
     "393792120868@s.whatsapp.net": {
-      "messaggi": 163,
-      "exp": 875,
+      "messaggi": 165,
+      "exp": 890,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 182,
-      "exp": 953,
+      "messaggi": 192,
+      "exp": 1008,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1719,
-      "exp": 20301,
+      "messaggi": 1721,
+      "exp": 20308,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -615,7 +615,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 142,
+      "messaggi": 143,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -647,7 +647,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 131,
+      "messaggi": 137,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -4929,8 +4929,8 @@
       "muto": false
     },
     "51954845762@s.whatsapp.net": {
-      "messaggi": 164,
-      "exp": 666,
+      "messaggi": 177,
+      "exp": 747,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5626,8 +5626,8 @@
       "money": null
     },
     "212716609394@s.whatsapp.net": {
-      "messaggi": 180,
-      "exp": 986,
+      "messaggi": 183,
+      "exp": 995,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5708,8 +5708,8 @@
       "money": null
     },
     "3197010269896@s.whatsapp.net": {
-      "messaggi": 88,
-      "exp": 448,
+      "messaggi": 96,
+      "exp": 479,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5824,8 +5824,8 @@
       "muto": false
     },
     "393716876691@s.whatsapp.net": {
-      "messaggi": 58,
-      "exp": 353,
+      "messaggi": 61,
+      "exp": 382,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -6557,7 +6557,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 1633,
+      "messaggi": 1681,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16861,10 +16861,10 @@
       "lastSuccess": 1718839042421
     },
     "bot-ping.js": {
-      "total": 9,
-      "success": 9,
-      "last": 1720300218613,
-      "lastSuccess": 1720300218613
+      "total": 10,
+      "success": 10,
+      "last": 1720328231359,
+      "lastSuccess": 1720328231359
     },
     "allmenu.js": {
       "total": 11,
