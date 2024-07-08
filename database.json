@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1787,
-      "exp": 20669,
+      "messaggi": 1790,
+      "exp": 20701,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -6063,6 +6063,12 @@
       "premiumTime": 0,
       "name": "youssefamti",
       "muto": false
+    },
+    "212698970620@s.whatsapp.net": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
     }
   },
   "chats": {
@@ -7657,7 +7663,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 792,
+      "messaggi": 793,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -17102,6 +17108,45 @@
       "tprem": 0,
       "money": 0,
       "warn": 0
+    },
+    "212716609394@s.whatsapp.net": {
+      "name": "FunDoo",
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": false,
+      "modohorny": false,
+      "gpt": true,
+      "bestemmiometro": false,
+      "antiporno": false,
+      "antielimina": false,
+      "audios": false,
+      "antiLinkfast": false,
+      "antiLink": false,
+      "antiLink2": false,
+      "antilinkbase": false,
+      "antitiktokbase": false,
+      "antiinsta": false,
+      "antitiktok": false,
+      "antiviewonce": false,
+      "antiToxic": false,
+      "antiTraba": false,
+      "antiArab": false,
+      "modoadmin": false,
+      "antiPorno": false,
+      "muto": false,
+      "expired": 0,
+      "messaggi": 3,
+      "blasphemy": 0,
+      "premium": false,
+      "premiumTime": 0,
+      "tprem": 0,
+      "money": 0,
+      "warn": 0
     }
   },
   "stats": {
@@ -17226,10 +17271,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 200,
-      "success": 200,
-      "last": 1720467368346,
-      "lastSuccess": 1720467368346
+      "total": 201,
+      "success": 201,
+      "last": 1720473239348,
+      "lastSuccess": 1720473239348
     },
     "dl-Ai.js": {
       "total": 39,
