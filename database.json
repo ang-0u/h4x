@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 255,
-      "exp": 1336,
+      "messaggi": 257,
+      "exp": 1350,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1780,
-      "exp": 20620,
+      "messaggi": 1782,
+      "exp": 20628,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -647,7 +647,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 186,
+      "messaggi": 188,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -5636,8 +5636,8 @@
       "money": null
     },
     "212716609394@s.whatsapp.net": {
-      "messaggi": 233,
-      "exp": 1269,
+      "messaggi": 234,
+      "exp": 1271,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5834,8 +5834,8 @@
       "muto": false
     },
     "393716876691@s.whatsapp.net": {
-      "messaggi": 79,
-      "exp": 566,
+      "messaggi": 94,
+      "exp": 671,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5953,8 +5953,8 @@
       "money": null
     },
     "212693696162@s.whatsapp.net": {
-      "messaggi": 18,
-      "exp": 248,
+      "messaggi": 19,
+      "exp": 266,
       "limit": 2,
       "money": 0,
       "blasphemy": 0,
@@ -6661,7 +6661,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 2096,
+      "messaggi": 2116,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -16957,7 +16957,7 @@
       "antiPorno": false,
       "muto": false,
       "expired": 0,
-      "messaggi": 36,
+      "messaggi": 39,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -17088,10 +17088,10 @@
       "lastSuccess": 1718803799820
     },
     "_mennnu.js": {
-      "total": 197,
-      "success": 197,
-      "last": 1720393460921,
-      "lastSuccess": 1720393460921
+      "total": 198,
+      "success": 198,
+      "last": 1720440185471,
+      "lastSuccess": 1720440185471
     },
     "dl-Ai.js": {
       "total": 39,
