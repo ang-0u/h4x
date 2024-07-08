@@ -516,7 +516,7 @@
       "registered": true
     },
     "212630886351@s.whatsapp.net": {
-      "messaggi": 604,
+      "messaggi": 605,
       "exp": 100000000000000030000,
       "limit": 2015,
       "money": null,
@@ -6142,7 +6142,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 1,
+      "messaggi": 2,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
