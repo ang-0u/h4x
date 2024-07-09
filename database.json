@@ -275,8 +275,8 @@
       "muto": false
     },
     "393716463626@s.whatsapp.net": {
-      "messaggi": 296,
-      "exp": 1536,
+      "messaggi": 307,
+      "exp": 1572,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -496,8 +496,8 @@
       "registered": true
     },
     "212633305659@s.whatsapp.net": {
-      "messaggi": 1817,
-      "exp": 20862,
+      "messaggi": 1823,
+      "exp": 20894,
       "limit": 1020,
       "money": null,
       "blasphemy": 0,
@@ -583,8 +583,8 @@
       "muto": false
     },
     "120363148902152328@g.us": {
-      "messaggi": 35,
-      "exp": 205,
+      "messaggi": 36,
+      "exp": 212,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -615,7 +615,7 @@
       "muto": false
     },
     "13103555088@s.whatsapp.net": {
-      "messaggi": 230,
+      "messaggi": 237,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -647,7 +647,7 @@
       "muto": false
     },
     "40729756792@s.whatsapp.net": {
-      "messaggi": 231,
+      "messaggi": 233,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -679,7 +679,7 @@
       "muto": false
     },
     "12013613613@s.whatsapp.net": {
-      "messaggi": 97,
+      "messaggi": 102,
       "exp": 0,
       "limit": 20,
       "money": null,
@@ -1819,8 +1819,8 @@
       "muto": false
     },
     "212718858612@s.whatsapp.net": {
-      "messaggi": 3,
-      "exp": 6,
+      "messaggi": 4,
+      "exp": 8,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -4463,8 +4463,8 @@
       "muto": false
     },
     "393518398856@s.whatsapp.net": {
-      "messaggi": 6,
-      "exp": 16,
+      "messaggi": 7,
+      "exp": 25,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5468,10 +5468,20 @@
       "money": null
     },
     "212700722297@s.whatsapp.net": {
-      "messaggi": 1,
-      "exp": null,
-      "limit": null,
-      "money": null
+      "messaggi": 2,
+      "exp": 6,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "+212 700-722297",
+      "muto": false
     },
     "212705525095@s.whatsapp.net": {
       "messaggi": 1,
@@ -5636,8 +5646,8 @@
       "money": null
     },
     "212716609394@s.whatsapp.net": {
-      "messaggi": 299,
-      "exp": 1665,
+      "messaggi": 305,
+      "exp": 1703,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5718,8 +5728,8 @@
       "money": null
     },
     "3197010269896@s.whatsapp.net": {
-      "messaggi": 175,
-      "exp": 949,
+      "messaggi": 180,
+      "exp": 977,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -5834,9 +5844,9 @@
       "muto": false
     },
     "393716876691@s.whatsapp.net": {
-      "messaggi": 141,
-      "exp": 1122,
-      "limit": 20,
+      "messaggi": 146,
+      "exp": 1196,
+      "limit": 5,
       "money": 0,
       "blasphemy": 0,
       "msg": {},
@@ -6027,8 +6037,8 @@
       "money": null
     },
     "51943058441@s.whatsapp.net": {
-      "messaggi": 39,
-      "exp": 239,
+      "messaggi": 40,
+      "exp": 242,
       "limit": 20,
       "money": null,
       "blasphemy": 0,
@@ -6083,6 +6093,12 @@
       "money": null
     },
     "225950142828687@lid": {
+      "messaggi": 1,
+      "exp": null,
+      "limit": null,
+      "money": null
+    },
+    "212604534427@s.whatsapp.net": {
       "messaggi": 1,
       "exp": null,
       "limit": null,
@@ -6745,7 +6761,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 2536,
+      "messaggi": 2586,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -7681,7 +7697,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 795,
+      "messaggi": 798,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -17325,10 +17341,10 @@
       "lastSuccess": 1718807024264
     },
     "dl-img.js": {
-      "total": 55,
-      "success": 48,
-      "last": 1720393483641,
-      "lastSuccess": 1720393483641
+      "total": 58,
+      "success": 51,
+      "last": 1720527704971,
+      "lastSuccess": 1720527704971
     },
     "levelup.js": {
       "total": 5,
