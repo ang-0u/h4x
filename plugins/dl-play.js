@@ -16,7 +16,7 @@ const handler = async (m, { conn, text, args }) => {
     if (query.length === 0) {
       return m.reply('It seems the video title is missing');
     }
-    m.reply(wait);
+    m.reply("Please wait while I fetch the audio...");
 
     // Perform a search on YouTube using the query
     const search = await yts(query);
