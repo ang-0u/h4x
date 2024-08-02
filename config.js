@@ -55,7 +55,7 @@ global.APIKeys = {
 'https://api.neoxr.my.id': `${keysneoxr}`,	
 'https://violetics.pw': 'beta',
 'https://api.zahwazein.xyz': `${keysxxx}`,
-'https://api.fgmods.xyz': 'DRLg5kY7', 
+'https://api.fgmods.xyz': 'sqFU3rkB', 
 'https://api-fgmods.ddns.net': 'fg-dylux',
 'https://api.botcahx.biz.id': 'Admin',
 'https://api.ibeng.tech/docs': 'tamvan',
