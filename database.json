@@ -477,10 +477,10 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 319,
-      "exp": 4001,
+      "messaggi": 326,
+      "exp": 4088,
       "limit": 1020,
-      "money": null,
+      "money": 0,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -7485,7 +7485,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 107,
+      "messaggi": 114,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -17213,10 +17213,10 @@
       "lastSuccess": 1720394125183
     },
     "owner-exec.js": {
-      "total": 32,
-      "success": 32,
-      "last": 1720394158599,
-      "lastSuccess": 1720394158599
+      "total": 35,
+      "success": 35,
+      "last": 1722627525237,
+      "lastSuccess": 1722627525237
     },
     "_menu.js": {
       "total": 37,
@@ -17481,6 +17481,14 @@
       "jadibot": true
     },
     "212767928212@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "restrict": true,
+      "antiCall": true,
+      "antiPrivate": true,
+      "jadibot": true
+    },
+    "212781360910@s.whatsapp.net": {
       "self": false,
       "autoread": true,
       "restrict": true,
