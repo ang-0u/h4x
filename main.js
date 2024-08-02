@@ -511,7 +511,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `I'm ChatGPT 4, an AI language model developed by OpenAI.`
+  const bio = `I'm FunDoo 🐋, an robot downloads developed by (Mee6 & Mouad).`
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
