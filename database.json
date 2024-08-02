@@ -477,10 +477,10 @@
       "money": null
     },
     "212621851554@s.whatsapp.net": {
-      "messaggi": 326,
-      "exp": 4088,
+      "messaggi": 335,
+      "exp": 4161,
       "limit": 1020,
-      "money": 0,
+      "money": null,
       "blasphemy": 0,
       "msg": {},
       "warn": 0,
@@ -6125,6 +6125,22 @@
       "exp": null,
       "limit": null,
       "money": null
+    },
+    "212781360910@s.whatsapp.net": {
+      "messaggi": 3,
+      "exp": 12,
+      "limit": 20,
+      "money": null,
+      "blasphemy": 0,
+      "msg": {},
+      "warn": 0,
+      "joincount": 2,
+      "premium": false,
+      "premiumDate": -1,
+      "tprem": 0,
+      "premiumTime": 0,
+      "name": "FunDoo",
+      "muto": false
     }
   },
   "chats": {
@@ -7485,7 +7501,7 @@
       "antiPorno": true,
       "muto": false,
       "expired": 0,
-      "messaggi": 114,
+      "messaggi": 126,
       "blasphemy": 0,
       "premium": false,
       "premiumTime": 0,
@@ -17309,10 +17325,10 @@
       "lastSuccess": 1720479750278
     },
     "dl-play.js": {
-      "total": 135,
-      "success": 133,
-      "last": 1720508829523,
-      "lastSuccess": 1720508829523
+      "total": 136,
+      "success": 134,
+      "last": 1722628106876,
+      "lastSuccess": 1722628106876
     },
     "dl-ytmp4.js": {
       "total": 49,
