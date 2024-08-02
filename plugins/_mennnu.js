@@ -45,18 +45,12 @@ const handler = async (m, { conn, usedPrefix }) => {
 
     _*< list Commands />*_
 
-    ▢ _/make-account_
-    ▢ _/ai_
     ▢ _/play_
-    ▢ _/yts_
     ▢ _/ytmp4_
     ▢ _/ytmp3_
     ▢ _/ig_
     ▢ _/fb_
-    ▢ _/tiktok_
-    ▢ _/manga_
-    ▢ _/img_
-    ▢ _/apk_`.trim();
+    ▢ _/tiktok_`.trim();
     
     const fkontak2 = {
       'key': { 'participants': '0@s.whatsapp.net', 'remoteJid': 'status@broadcast', 'fromMe': false, 'id': 'Halo' },
