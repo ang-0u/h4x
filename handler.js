@@ -409,7 +409,7 @@ export async function handler(chatUpdate) {
                          m.reply(+m.money + ' 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 🐱 𝙐𝙎𝘼𝘿𝙊(𝙎)') 
                          break                    }
                     if (m.limit)
-                        m.reply(+m.limit + ' diamante usato')
+                        m.reply(+m.limit + ' used diamond')
                                  } 
 
                  break 
